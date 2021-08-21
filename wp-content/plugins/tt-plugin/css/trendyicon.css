@@ -1,0 +1,68 @@
+@font-face {
+  font-family: 'trendyicon';
+  src:  url('../fonts/trendyicon.eot?dkroz8');
+  src:  url('../fonts/trendyicon.eot?dkroz8#iefix') format('embedded-opentype'),
+    url('../fonts/trendyicon.ttf?dkroz8') format('truetype'),
+    url('../fonts/trendyicon.woff?dkroz8') format('woff'),
+    url('../fonts/trendyicon.svg?dkroz8#trendyicon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.tt-farenheit, .tt-sun, .tt-cloud-8, .tt-cloud-7, .tt-thermometer, .tt-celsius, .tt-cloud-6, .tt-cloud-5, .tt-moon, .tt-cloud-4, .tt-cloud-3, .tt-cloud-2, .tt-cloud{
+  font-family: 'trendyicon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+.tt-farenheit:before {
+  content: "\e900";
+}
+.tt-sun:before {
+  content: "\e901";
+}
+.tt-cloud-8:before {
+  content: "\e902";
+}
+.tt-cloud-7:before {
+  content: "\e903";
+}
+.tt-thermometer:before {
+  content: "\e904";
+}
+.tt-celsius:before {
+  content: "\e905";
+}
+.tt-cloud-6:before {
+  content: "\e906";
+}
+.tt-cloud-5:before {
+  content: "\e907";
+}
+.tt-moon:before {
+  content: "\e908";
+}
+.tt-cloud-4:before {
+  content: "\e909";
+}
+.tt-cloud-3:before {
+  content: "\e90a";
+}
+.tt-cloud-2:before {
+  content: "\e90b";
+}
+.tt-cloud-1:before {
+  content: "\e90c";
+}
+.tt-cloud:before {
+  content: "\e90d";
+}

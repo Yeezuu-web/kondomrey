@@ -1,0 +1,232 @@
+body,
+.block-editor .editor-styles-wrapper {
+    font-family: 'Droid Serif', sans-serif;
+    font-size: 16px;
+    line-height: 25px;
+    font-weight: 400;
+    color: #999999;
+    background-color: #ffffff;
+}
+
+.block-editor .editor-styles-wrapper p{
+  font-size: 16px;
+}
+
+.block-editor .editor-post-title__block .editor-post-title__input{
+   font-family: 'Droid Serif', sans-serif;
+}
+
+
+/* LINK STYLE =-=-=-=-=-=-= */
+a {
+    color: #ff3c00;
+}
+a,
+a > * {
+    outline: none;
+    cursor: pointer;
+    text-decoration: none;
+}
+a:focus{
+  color: #ff3c00;
+}
+a:hover {
+    color: #cd000e;
+}
+a:focus,
+a:hover {
+    outline: none;
+    text-decoration: none;
+}
+
+
+/* HEADING STYLE =-=-=-=-=-=-= */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.editor-styles-wrapper h1,
+.editor-styles-wrapper h2,
+.editor-styles-wrapper h3,
+.editor-styles-wrapper h4,
+.editor-styles-wrapper h5,
+.editor-styles-wrapper h6{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    margin: 0 0 15px;
+    color: #202020;
+}
+
+h1,
+.editor-styles-wrapper h1 {
+    font-size: 35px;
+    line-height: 50px;
+}
+h2,
+.editor-styles-wrapper h2 {
+    font-size: 25px;
+}
+h3,
+.editor-styles-wrapper h3 {
+    font-size: 20px;
+    line-height: 25px
+}
+h4,
+.editor-styles-wrapper h4 {
+    font-size: 18px;
+    line-height: 20px;
+}
+h5,
+.editor-styles-wrapper h5 {
+    font-size: 16px;
+}
+h6,
+.editor-styles-wrapper h6 {
+    font-size: 14px;
+}
+
+p {
+    margin-bottom: 15px;
+}
+
+
+/* DEFINITION LISTS =-=-=-=-=-=-= */
+
+dl dd{
+    margin-bottom: 10px;
+}
+
+/* PRE =-=-=-=-=-=-= */
+pre{
+    border: 1px solid #ECECEC;
+}
+
+/* CODE =-=-=-=-=-=-= */
+code{
+    color: #888888;
+}
+
+
+
+/* WORDPRESS CORE =-=-=-=-=-=-= */
+.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.aligncenter,
+div.aligncenter {
+    display: block;
+    margin: 5px auto 5px auto;
+}
+
+.alignright {
+    float:right;
+    margin: 5px 0 20px 20px;
+}
+
+.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignright {
+    float: right;
+    margin: 5px 0 20px 20px;
+}
+
+a img.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+a img.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.wp-caption {
+    background: #fff;
+    border: 1px solid #f0f0f0;
+    max-width: 96%; /* Image does not overflow the content area */
+    padding: 3px;
+    text-align: center;
+}
+
+.wp-caption figcaption{
+    padding: 5px 0 0;
+}
+
+
+.wp-caption.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignleft {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignright {
+    margin: 5px 0 20px 20px;
+}
+
+.wp-caption img {
+    border: 0 none;
+    height: auto;
+    margin: 0;
+    max-width: 98.5%;
+    padding: 0;
+    width: auto;
+}
+
+.wp-caption p.wp-caption-text {
+    font-size: 11px;
+    line-height: 17px;
+    margin: 0;
+    padding: 0 4px 5px;
+}
+
+/* BLOCKQUOTE =-=-=-=-=-=-= */
+blockquote{
+    font-size: 17px;
+    font-style: italic;
+    padding: 3em 4em;
+    background: #f1f1f1;
+    color: #666;
+    border: 0;
+    margin: 0;
+    position: relative;
+}
+
+blockquote::before{
+    position: absolute;
+    content: "\f10d";
+    font-family: FontAwesome;
+    font-size: 30px;
+    color: #ccc;
+    left: 25px;
+    top: 55px;
+}
+
+
+/* Main column width */
+.wp-block {
+    max-width: 970px;
+}
+
+/* Width of "wide" blocks */
+.wp-block[data-align="wide"] {
+    max-width: 1270px;
+}
+
+/* Width of "full-wide" blocks */
+.wp-block[data-align="full"] {
+    max-width: none;
+}

@@ -1,0 +1,27 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">wpcf7_contact_form</custom-type>
+        <custom-type translate="1">vc_grid_item</custom-type>
+    </custom-types>
+    <custom-fields>
+        <custom-field action="copy">trendymag_post_views_count</custom-field>
+    </custom-fields>
+    <admin-texts>
+        <key name="materialize_theme_option">
+            <key name="text-logo"/>
+            <key name="blog-title"/>
+            <key name="subscription-form-title"/>
+            <key name="subscription-form-subtitle"/>
+            <key name="footer-text"/>
+            <key name="related-text"/>
+            <key name="ad-title"/>
+            <key name="ls-ad-title"/>
+            <key name="rs-ad-title"/>
+            <key name="footer-ad-title"/>
+            <key name="at-ad-title"/>
+            <key name="ab-ad-title"/>
+            <key name="footer-about-text"/>
+            <key name="footer-text"/>
+        </key>
+    </admin-texts>
+</wpml-config>

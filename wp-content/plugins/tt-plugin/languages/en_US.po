@@ -1,0 +1,1468 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TrendyMag Core Plugin\n"
+"POT-Creation-Date: 2017-07-26 23:48+0600\n"
+"PO-Revision-Date: 2017-07-26 23:48+0600\n"
+"Last-Translator: \n"
+"Language-Team: TrendyTheme <trendytheme.net@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_html_x;_n_noop;_x;_nx;_n;__;"
+"_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/api-key-for-google-maps.php:45
+msgid "Kay Updated!"
+msgstr ""
+
+#: inc/api-key-for-google-maps.php:51 inc/api-key-for-google-maps.php:57
+msgid "Add Google Maps API KEY"
+msgstr ""
+
+#: inc/api-key-for-google-maps.php:52
+msgid ""
+"This option will attempt to add your Google API KEY to any Google Maps JS "
+"file that has properly been enqueue."
+msgstr ""
+
+#: inc/api-key-for-google-maps.php:53
+#, php-format
+msgid "To Get a Google Maps API KEY %sclick here%s"
+msgstr ""
+
+#: inc/api-key-for-google-maps.php:56
+msgid "Enter Google Maps API KEY"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:82
+#, php-format
+msgid "%s (\"Invalid\", \"tt-pl-textdomain\")"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:86
+#, php-format
+msgid "%s (\"Pending\", \"tt-pl-textdomain\")"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:99
+msgid "sub item"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:131
+msgid "Edit Menu Item"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:140
+#: inc/trendy-counters/framework/class-admin.php:1088
+#: inc/trendy-counters/framework/class-admin.php:1172
+#: inc/trendy-counters/framework/class-admin.php:1246
+msgid "URL"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:148
+msgid "Navigation Label"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:155
+msgid "Title Attribute"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:163
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:169
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:176
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:183
+msgid "Description"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:185
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:192
+msgid "Use as Menu Heading Text?"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:194
+#: inc/trendy-counters/framework/class-admin.php:1851
+#: inc/trendy-counters/framework/class-admin.php:1854
+#: inc/trendy-counters/framework/class-admin.php:1855
+#: inc/trendy-counters/framework/class-widget.php:102
+#: inc/trendy-counters/framework/class-widget.php:103
+#: inc/trendy-counters/framework/html-settings-system-status-page.php:30
+#: inc/widgets/latest-posts.php:64 inc/widgets/latest-posts.php:72
+#: inc/widgets/popular-post/widget.php:42
+#: inc/widgets/popular-post/widget.php:50
+#: inc/widgets/popular-post/widget.php:58
+msgid "No"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:195
+#: inc/trendy-counters/framework/class-admin.php:1851
+#: inc/trendy-counters/framework/class-admin.php:1854
+#: inc/trendy-counters/framework/class-admin.php:1855
+#: inc/trendy-counters/framework/class-widget.php:97
+#: inc/trendy-counters/framework/class-widget.php:99
+#: inc/trendy-counters/framework/class-widget.php:100
+#: inc/trendy-counters/framework/html-settings-system-status-page.php:30
+#: inc/widgets/latest-posts.php:63 inc/widgets/latest-posts.php:71
+#: inc/widgets/popular-post/widget.php:41
+#: inc/widgets/popular-post/widget.php:49
+#: inc/widgets/popular-post/widget.php:57
+msgid "Yes"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:197
+msgid "Select yes to use this item as menu heading text"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:205
+msgid "Menu Icon"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:207
+msgid "Select Icon"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:226
+msgid "Megamenu Settings (Use any one megamenu option)"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:234
+msgid "Enable with menu item"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:235
+msgid "Disable"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:241
+msgid "Mega Menu Container Width"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:243
+msgid "col-sm-12"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:244
+msgid "col-sm-10"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:246
+msgid "Select Bootstrap grid column for manage container width"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:252
+msgid "Megamenu Column Number"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:254
+msgid "1 Column"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:255
+msgid "2 Column"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:256
+msgid "3 Column"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:257
+msgid "4 Column"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:265
+msgid "OR, Select page to enable Page Megamenu"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:269
+msgid "Move"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:270
+msgid "Up one"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:271
+msgid "Down one"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:274
+msgid "To the top"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:281
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:294
+msgid "Remove"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:295
+msgid "Cancel"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:37
+msgid "Automatically show likes on"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:38
+msgid "Exclude from Post/Page ID"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:39
+msgid "Disable CSS"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:40
+msgid "AJAX Like Counts"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:41
+msgid "0 Count Postfix"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:42
+msgid "1 Count Postfix"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:43
+msgid "More than 1 Count Postfix"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:44
+msgid "Shortcode and Template Tag"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:50 inc/post-likes/zilla-likes.php:51
+#: inc/post-likes/zilla-likes.php:61
+msgid "ZillaLikes Settings"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:51
+#: inc/trendy-counters/framework/class-admin.php:98
+#: inc/trendy-counters/framework/class-admin.php:1798
+msgid "Settings"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:64
+msgid "Settings saved."
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:70
+msgid "Save Changes"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:79
+msgid ""
+"ZillaLikes allows you to display like icons throughout your site. Customize "
+"the output of ZillaLike with this settings page."
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:93
+#: inc/trendy-counters/framework/class-admin.php:1026
+#: inc/trendy-counters/framework/class-admin.php:1029
+#: inc/trendy-counters/framework/class-admin.php:1965
+msgid "Posts"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:96
+msgid "Pages"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:99
+msgid "Blog Index Page, Archive Pages, and Search Results"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:108
+msgid "Comma separated list of post/page ID's (e.g. 4,7,87)"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:117
+msgid "I want to use my own CSS styles"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:124
+msgid ""
+"We recommend you check this option when using the Shutterbug theme to avoid "
+"conflicts"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:135
+msgid "AJAX Like Counts on page load"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:136
+msgid ""
+"If you are using a cacheing plugin, you may want to dynamically load the "
+"like counts via AJAX."
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:145
+msgid ""
+"The text after the count when no one has liked a post/page. Leave blank for "
+"no text after the count."
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:154
+msgid ""
+"The text after the count when one person has liked a post/page. Leave blank "
+"for no text after the count."
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:163
+msgid ""
+"The text after the count when more than one person has liked a post/page. "
+"Leave blank for no text after the count."
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:168
+msgid "To use ZillaLikes in your posts and pages you can use the shortcode:"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:170
+msgid ""
+"To use ZillaLikes manually in your theme template use the following PHP code:"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:314
+msgid "Like this"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:317
+msgid "You already like this"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:354
+msgid "Displays your most popular posts sorted by most liked"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:411
+msgid "Popular Posts"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:426 inc/widgets/facebook.php:32
+#: inc/widgets/flickr.php:73 inc/widgets/twitter.php:181
+#: inc/widgets/weather.php:38
+msgid "Title:"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:430
+msgid "Description:"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:434
+msgid "Posts:"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:439
+msgid "Display like counts"
+msgstr ""
+
+#: inc/template-tags.php:19
+msgid "Next page"
+msgstr ""
+
+#: inc/template-tags.php:20
+msgid "Previous page"
+msgstr ""
+
+#: inc/template-tags.php:126
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: inc/template-tags.php:132
+msgid "Comment"
+msgstr ""
+
+#: inc/template-tags.php:139
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: inc/template-tags.php:140
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: inc/template-tags.php:141
+msgid "Your email address will not be published."
+msgstr ""
+
+#: inc/template-tags.php:142
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+
+#: inc/template-tags.php:145
+msgid "Leave a Reply"
+msgstr ""
+
+#: inc/template-tags.php:146
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: inc/template-tags.php:147
+msgid "Cancel reply"
+msgstr ""
+
+#: inc/template-tags.php:148
+msgid "Submit Comment"
+msgstr ""
+
+#: inc/template-tags.php:210
+msgid "Views"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:66
+#: inc/trendy-counters/framework/class-admin.php:67
+#: inc/trendy-counters/framework/class-admin.php:562
+#, php-format
+msgid "Follow instructions on %s site"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:68
+#, php-format
+msgid "You can choose any icon from  %s."
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:101
+msgid "Icon Size"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:104
+#: inc/trendy-counters/framework/class-admin.php:110
+#: inc/trendy-counters/framework/class-admin.php:116
+#: inc/trendy-counters/framework/class-admin.php:166
+#: inc/trendy-counters/framework/class-admin.php:260
+#: inc/trendy-counters/framework/class-admin.php:343
+#: inc/trendy-counters/framework/class-admin.php:432
+#: inc/trendy-counters/framework/class-admin.php:506
+#: inc/trendy-counters/framework/class-admin.php:590
+#: inc/trendy-counters/framework/class-admin.php:664
+#: inc/trendy-counters/framework/class-admin.php:738
+#: inc/trendy-counters/framework/class-admin.php:812
+#: inc/trendy-counters/framework/class-admin.php:891
+#: inc/trendy-counters/framework/class-admin.php:965
+#: inc/trendy-counters/framework/class-admin.php:1039
+#: inc/trendy-counters/framework/class-admin.php:1118
+#: inc/trendy-counters/framework/class-admin.php:1202
+#, php-format
+msgid "Default: %s"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:107
+msgid "Number Size"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:113
+msgid "Label Size"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:119
+msgid "Paddings"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:122
+#, php-format
+msgid "Counter paddings (Left, Top, Right, Bottom). For example %s"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:125
+msgid "Open URLs in new tab/window"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:127
+#: inc/trendy-counters/framework/class-admin.php:132
+#, php-format
+msgid "This option add %s in all counters URLs."
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:130
+msgid "Add nofollow in URLs"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:135
+msgid "Counters Layout"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:141
+msgid "Convert thousands"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:143
+msgid ""
+"This option confert followers thousands to \"k\" format for example 1543 "
+"followes will be shown like 1.5k followers"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:146
+#: inc/widgets/latest-posts.php:41
+msgid "Order"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:148
+msgid "This option controls the order of the icons in the widget."
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:153
+#: inc/trendy-counters/framework/class-admin.php:156
+#: inc/trendy-counters/framework/class-admin.php:1969
+msgid "Twitter"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:160
+#: inc/trendy-counters/framework/class-admin.php:254
+#: inc/trendy-counters/framework/class-admin.php:337
+#: inc/trendy-counters/framework/class-admin.php:426
+#: inc/trendy-counters/framework/class-admin.php:500
+#: inc/trendy-counters/framework/class-admin.php:584
+#: inc/trendy-counters/framework/class-admin.php:658
+#: inc/trendy-counters/framework/class-admin.php:732
+#: inc/trendy-counters/framework/class-admin.php:806
+#: inc/trendy-counters/framework/class-admin.php:885
+#: inc/trendy-counters/framework/class-admin.php:959
+#: inc/trendy-counters/framework/class-admin.php:1033
+#: inc/trendy-counters/framework/class-admin.php:1112
+#: inc/trendy-counters/framework/class-admin.php:1196
+msgid "Icon"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:170
+#: inc/trendy-counters/framework/class-admin.php:264
+#: inc/trendy-counters/framework/class-admin.php:347
+#: inc/trendy-counters/framework/class-admin.php:436
+#: inc/trendy-counters/framework/class-admin.php:510
+#: inc/trendy-counters/framework/class-admin.php:594
+#: inc/trendy-counters/framework/class-admin.php:668
+#: inc/trendy-counters/framework/class-admin.php:742
+#: inc/trendy-counters/framework/class-admin.php:816
+#: inc/trendy-counters/framework/class-admin.php:895
+#: inc/trendy-counters/framework/class-admin.php:969
+#: inc/trendy-counters/framework/class-admin.php:1043
+#: inc/trendy-counters/framework/class-admin.php:1122
+#: inc/trendy-counters/framework/class-admin.php:1206
+msgid "Icon Color"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:175
+#: inc/trendy-counters/framework/class-admin.php:269
+#: inc/trendy-counters/framework/class-admin.php:352
+#: inc/trendy-counters/framework/class-admin.php:441
+#: inc/trendy-counters/framework/class-admin.php:515
+#: inc/trendy-counters/framework/class-admin.php:599
+#: inc/trendy-counters/framework/class-admin.php:673
+#: inc/trendy-counters/framework/class-admin.php:747
+#: inc/trendy-counters/framework/class-admin.php:821
+#: inc/trendy-counters/framework/class-admin.php:900
+#: inc/trendy-counters/framework/class-admin.php:974
+#: inc/trendy-counters/framework/class-admin.php:1048
+#: inc/trendy-counters/framework/class-admin.php:1127
+#: inc/trendy-counters/framework/class-admin.php:1211
+msgid "Icon Color on Hover"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:180
+#: inc/trendy-counters/framework/class-admin.php:274
+#: inc/trendy-counters/framework/class-admin.php:357
+#: inc/trendy-counters/framework/class-admin.php:446
+#: inc/trendy-counters/framework/class-admin.php:520
+#: inc/trendy-counters/framework/class-admin.php:604
+#: inc/trendy-counters/framework/class-admin.php:678
+#: inc/trendy-counters/framework/class-admin.php:752
+#: inc/trendy-counters/framework/class-admin.php:826
+#: inc/trendy-counters/framework/class-admin.php:905
+#: inc/trendy-counters/framework/class-admin.php:979
+#: inc/trendy-counters/framework/class-admin.php:1053
+#: inc/trendy-counters/framework/class-admin.php:1132
+#: inc/trendy-counters/framework/class-admin.php:1216
+msgid "Counter Background"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:185
+#: inc/trendy-counters/framework/class-admin.php:279
+#: inc/trendy-counters/framework/class-admin.php:362
+#: inc/trendy-counters/framework/class-admin.php:451
+#: inc/trendy-counters/framework/class-admin.php:525
+#: inc/trendy-counters/framework/class-admin.php:609
+#: inc/trendy-counters/framework/class-admin.php:683
+#: inc/trendy-counters/framework/class-admin.php:757
+#: inc/trendy-counters/framework/class-admin.php:831
+#: inc/trendy-counters/framework/class-admin.php:910
+#: inc/trendy-counters/framework/class-admin.php:984
+#: inc/trendy-counters/framework/class-admin.php:1058
+#: inc/trendy-counters/framework/class-admin.php:1137
+#: inc/trendy-counters/framework/class-admin.php:1221
+msgid "Counter Background on Hover"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:190
+#: inc/trendy-counters/framework/class-admin.php:284
+#: inc/trendy-counters/framework/class-admin.php:367
+#: inc/trendy-counters/framework/class-admin.php:456
+#: inc/trendy-counters/framework/class-admin.php:530
+#: inc/trendy-counters/framework/class-admin.php:614
+#: inc/trendy-counters/framework/class-admin.php:688
+#: inc/trendy-counters/framework/class-admin.php:762
+#: inc/trendy-counters/framework/class-admin.php:836
+#: inc/trendy-counters/framework/class-admin.php:915
+#: inc/trendy-counters/framework/class-admin.php:989
+#: inc/trendy-counters/framework/class-admin.php:1063
+#: inc/trendy-counters/framework/class-admin.php:1142
+#: inc/trendy-counters/framework/class-admin.php:1226
+msgid "Number Color"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:195
+#: inc/trendy-counters/framework/class-admin.php:289
+#: inc/trendy-counters/framework/class-admin.php:372
+#: inc/trendy-counters/framework/class-admin.php:461
+#: inc/trendy-counters/framework/class-admin.php:535
+#: inc/trendy-counters/framework/class-admin.php:619
+#: inc/trendy-counters/framework/class-admin.php:693
+#: inc/trendy-counters/framework/class-admin.php:767
+#: inc/trendy-counters/framework/class-admin.php:841
+#: inc/trendy-counters/framework/class-admin.php:920
+#: inc/trendy-counters/framework/class-admin.php:994
+#: inc/trendy-counters/framework/class-admin.php:1068
+#: inc/trendy-counters/framework/class-admin.php:1147
+#: inc/trendy-counters/framework/class-admin.php:1231
+msgid "Number Color on Hover"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:200
+#: inc/trendy-counters/framework/class-admin.php:294
+#: inc/trendy-counters/framework/class-admin.php:377
+#: inc/trendy-counters/framework/class-admin.php:466
+#: inc/trendy-counters/framework/class-admin.php:540
+#: inc/trendy-counters/framework/class-admin.php:624
+#: inc/trendy-counters/framework/class-admin.php:698
+#: inc/trendy-counters/framework/class-admin.php:772
+#: inc/trendy-counters/framework/class-admin.php:846
+#: inc/trendy-counters/framework/class-admin.php:925
+#: inc/trendy-counters/framework/class-admin.php:999
+#: inc/trendy-counters/framework/class-admin.php:1073
+#: inc/trendy-counters/framework/class-admin.php:1152
+#: inc/trendy-counters/framework/class-admin.php:1236
+msgid "Label Color"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:205
+#: inc/trendy-counters/framework/class-admin.php:299
+#: inc/trendy-counters/framework/class-admin.php:382
+#: inc/trendy-counters/framework/class-admin.php:471
+#: inc/trendy-counters/framework/class-admin.php:545
+#: inc/trendy-counters/framework/class-admin.php:629
+#: inc/trendy-counters/framework/class-admin.php:703
+#: inc/trendy-counters/framework/class-admin.php:777
+#: inc/trendy-counters/framework/class-admin.php:851
+#: inc/trendy-counters/framework/class-admin.php:930
+#: inc/trendy-counters/framework/class-admin.php:1004
+#: inc/trendy-counters/framework/class-admin.php:1078
+#: inc/trendy-counters/framework/class-admin.php:1157
+#: inc/trendy-counters/framework/class-admin.php:1241
+msgid "Label Color on Hover"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:210
+#: inc/widgets/twitter.php:186
+msgid "Twitter Username"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:212
+#, php-format
+msgid "Insert the Twitter username. Example: %s."
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:215
+msgid "Twitter Consumer key"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:220
+msgid "Twitter Consumer secret"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:225
+msgid "Twitter Access token"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:230
+msgid "Twitter Access token secret"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:247
+#: inc/trendy-counters/framework/class-admin.php:250
+#: inc/trendy-counters/framework/class-admin.php:1962
+msgid "Google+"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:304
+msgid "Google+ ID"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:308
+msgid "Google+ page or profile ID."
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:309
+msgid "Example:"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:313
+#: inc/trendy-counters/framework/class-admin.php:560
+msgid "Google API Key"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:315
+#, php-format
+msgid "Get Google API %s"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:330
+#: inc/trendy-counters/framework/class-admin.php:333
+#: inc/trendy-counters/framework/class-admin.php:1960
+msgid "Facebook"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:387
+msgid "Facebook Page ID"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:391
+msgid "ID Facebook page. Must be the numeric ID or your page slug."
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:392
+msgid ""
+"You can find this data clicking to edit your page on Facebook. The URL will "
+"be similar to this:"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:393
+msgid "or"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:397
+msgid "Facebook App ID"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:402
+msgid "Facebook App Secret"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:419
+#: inc/trendy-counters/framework/class-admin.php:422
+#: inc/trendy-counters/framework/class-admin.php:1971
+msgid "Vimeo"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:476
+msgid "Vimeo Username"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:478
+#, php-format
+msgid "Insert your Vimeo username. Example: %s."
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:493
+#: inc/trendy-counters/framework/class-admin.php:496
+#: inc/trendy-counters/framework/class-admin.php:1972
+msgid "YouTube"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:550
+msgid "YouTube Channel ID"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:552
+#, php-format
+msgid "Insert the YouTube Channel ID. Example: %s."
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:555
+msgid "YouTube Channel URL"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:557
+#, php-format
+msgid "Insert the YouTube channel URL. Example: %s."
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:577
+#: inc/trendy-counters/framework/class-admin.php:580
+#: inc/trendy-counters/framework/class-admin.php:1963
+msgid "Instagram"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:634
+msgid "Instagram Username"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:636
+msgid "Insert your Instagram Username."
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:651
+#: inc/trendy-counters/framework/class-admin.php:654
+#: inc/trendy-counters/framework/class-admin.php:1964
+msgid "Pinterest"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:708
+msgid "Pinterest Username"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:710
+#, php-format
+msgid "Insert your Pinterest username. Example: %s."
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:725
+#: inc/trendy-counters/framework/class-admin.php:728
+#: inc/trendy-counters/framework/class-admin.php:1961
+msgid "GitHub"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:782
+msgid "GitHub Username"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:784
+#, php-format
+msgid "Insert your GitHub username. Example: %s."
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:799
+#: inc/trendy-counters/framework/class-admin.php:802
+#: inc/trendy-counters/framework/class-admin.php:1966
+msgid "SoundCloud"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:856
+msgid "SoundCloud Username"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:858
+msgid "Insert your SoundCloud Username."
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:861
+msgid "SoundCloud Client ID"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:863
+#, php-format
+msgid "Insert your SoundCloud App Client ID. Generate this data in %s."
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:878
+#: inc/trendy-counters/framework/class-admin.php:881
+#: inc/trendy-counters/framework/class-admin.php:1967
+msgid "Steam"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:935
+msgid "Steam Group Name"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:937
+#, php-format
+msgid "Insert your Steam Community group name. Example: %s."
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:952
+#: inc/trendy-counters/framework/class-admin.php:955
+#: inc/trendy-counters/framework/class-admin.php:1968
+msgid "Twitch"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:1009
+msgid "Twitch Username"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:1011
+msgid "Insert your Twitch username."
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:1083
+msgid "Post Type"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:1105
+#: inc/trendy-counters/framework/class-admin.php:1108
+#: inc/trendy-counters/framework/class-admin.php:1970
+msgid "Users"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:1162
+msgid "User Role"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:1167
+msgid "Label"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:1168
+#: inc/trendy-counters/framework/counters/users-counter.php:53
+msgid "users"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:1189
+#: inc/trendy-counters/framework/class-admin.php:1192
+#: inc/trendy-counters/framework/class-admin.php:1959
+msgid "Comments"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:1274
+#: inc/trendy-counters/framework/class-admin.php:1275
+#: inc/trendy-counters/framework/class-widget.php:20
+msgid "Trendy Counters"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:1654
+msgid "All Roles"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:1848
+msgid "General Info"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:1849
+msgid "Trendy Counters Version"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:1850
+#: inc/trendy-counters/framework/html-settings-system-status-page.php:21
+msgid "WordPress Version"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:1851
+#: inc/trendy-counters/framework/html-settings-system-status-page.php:28
+msgid "WP Multisite Enabled"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:1852
+#: inc/trendy-counters/framework/html-settings-system-status-page.php:35
+msgid "Web Server Info"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:1853
+#: inc/trendy-counters/framework/html-settings-system-status-page.php:42
+msgid "PHP Version"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:1856
+msgid "Social Connections"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-admin.php:1866
+msgid ""
+"You do not have any counter that needs to connect remotely currently active"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-widget.php:21
+msgid "Display the counter"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-widget.php:59
+#: inc/trendy-counters/framework/class-widget.php:119
+msgid "Social Counters"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-widget.php:61
+#: inc/widgets/latest-posts.php:52
+msgid "Title"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-widget.php:65
+msgid "Text before counters"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-widget.php:71
+msgid "Text after counters"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-widget.php:77
+msgid "Counters holder background (for example:#fff):"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-widget.php:83
+msgid "Counters per row:"
+msgstr ""
+
+#: inc/trendy-counters/framework/class-widget.php:95
+msgid "Show label?"
+msgstr ""
+
+#: inc/trendy-counters/framework/counters/comments-counter.php:66
+msgid "comments"
+msgstr ""
+
+#: inc/trendy-counters/framework/counters/facebook-counter.php:97
+msgid "likes"
+msgstr ""
+
+#: inc/trendy-counters/framework/counters/github-counter.php:69
+#: inc/trendy-counters/framework/counters/googleplus-counter.php:69
+#: inc/trendy-counters/framework/counters/instagram-counter.php:70
+#: inc/trendy-counters/framework/counters/pinterest-counter.php:78
+#: inc/trendy-counters/framework/counters/soundcloud-counter.php:68
+#: inc/trendy-counters/framework/counters/twitch-counter.php:75
+#: inc/trendy-counters/framework/counters/twitter-counter.php:146
+#: inc/trendy-counters/framework/counters/vimeo-counter.php:68
+msgid "followers"
+msgstr ""
+
+#: inc/trendy-counters/framework/counters/steam-counter.php:67
+msgid "members"
+msgstr ""
+
+#: inc/trendy-counters/framework/counters/youtube-counter.php:75
+msgid "subscribers"
+msgstr ""
+
+#: inc/trendy-counters/framework/html-settings-system-status-page.php:6
+msgid "Environment"
+msgstr ""
+
+#: inc/trendy-counters/framework/html-settings-system-status-page.php:14
+msgid "Plugin Version"
+msgstr ""
+
+#: inc/trendy-counters/framework/html-settings-system-status-page.php:50
+msgid ""
+"Your server does not have fsockopen or cURL enabled. The scripts which "
+"communicate with the social APIs will not work. Contact your hosting "
+"provider."
+msgstr ""
+
+#: inc/trendy-counters/framework/html-settings-system-status-page.php:54
+msgid "Your server has fsockopen and cURL enabled."
+msgstr ""
+
+#: inc/trendy-counters/framework/html-settings-system-status-page.php:56
+msgid "Your server has fsockopen enabled, cURL is disabled."
+msgstr ""
+
+#: inc/trendy-counters/framework/html-settings-system-status-page.php:58
+msgid "Your server has cURL enabled, fsockopen is disabled."
+msgstr ""
+
+#: inc/trendy-counters/framework/html-settings-system-status-page.php:65
+msgid "fsockopen/cURL"
+msgstr ""
+
+#: inc/trendy-counters/framework/html-settings-system-status-page.php:75
+msgid "wp_remote_get() failed. This may not work with your server."
+msgstr ""
+
+#: inc/trendy-counters/framework/html-settings-system-status-page.php:80
+msgid "wp_remote_get() was successful."
+msgstr ""
+
+#: inc/trendy-counters/framework/html-settings-system-status-page.php:82
+msgid ""
+"wp_remote_get() failed. This plugin won't work with your server. Contact "
+"your hosting provider. Error:"
+msgstr ""
+
+#: inc/trendy-counters/framework/html-settings-system-status-page.php:86
+msgid "WP Remote Get"
+msgstr ""
+
+#: inc/widgets/comments-widget.php:12
+msgid "TrendyMag Recent Comments"
+msgstr ""
+
+#: inc/widgets/comments-widget.php:13
+msgid "Your site's most recent comments with user avatar."
+msgstr ""
+
+#: inc/widgets/comments-widget.php:26 inc/widgets/latest-posts.php:31
+#: inc/widgets/popular-post/widget.php:29 inc/widgets/sidebar-ad.php:25
+#: inc/widgets/social-icons.php:36
+msgid "Title: "
+msgstr ""
+
+#: inc/widgets/comments-widget.php:31
+msgid "Number of comments to show: "
+msgstr ""
+
+#: inc/widgets/facebook.php:16
+msgid "TrendyMag Facebook Widget"
+msgstr ""
+
+#: inc/widgets/facebook.php:17
+msgid "Displays facebook like box"
+msgstr ""
+
+#: inc/widgets/facebook.php:22 inc/widgets/facebook.php:89
+msgid "Find us on Facebook"
+msgstr ""
+
+#: inc/widgets/facebook.php:37
+msgid "Page URL:"
+msgstr ""
+
+#: inc/widgets/facebook.php:43
+msgid "Hide cover Photo?"
+msgstr ""
+
+#: inc/widgets/facebook.php:48
+msgid "Show Faces?"
+msgstr ""
+
+#: inc/widgets/facebook.php:53
+msgid "Show Stream?"
+msgstr ""
+
+#: inc/widgets/flickr.php:12
+msgid "TrendyMag Flickr Widget"
+msgstr ""
+
+#: inc/widgets/flickr.php:13
+msgid "Displays flickr photo"
+msgstr ""
+
+#: inc/widgets/flickr.php:39
+msgid "Follow us on Flickr"
+msgstr ""
+
+#: inc/widgets/flickr.php:62
+msgid "Flickr"
+msgstr ""
+
+#: inc/widgets/flickr.php:78
+msgid "Flickr ID:"
+msgstr ""
+
+#: inc/widgets/flickr.php:80
+msgid "Find your ID at idGettr"
+msgstr ""
+
+#: inc/widgets/flickr.php:84
+msgid "Photos Order:"
+msgstr ""
+
+#: inc/widgets/flickr.php:86
+msgid "Most recent"
+msgstr ""
+
+#: inc/widgets/flickr.php:87 inc/widgets/latest-posts.php:56
+msgid "Random"
+msgstr ""
+
+#: inc/widgets/flickr.php:92
+msgid "Number of photos to show:"
+msgstr ""
+
+#: inc/widgets/latest-posts.php:13
+msgid "TrendyMag Latest News"
+msgstr ""
+
+#: inc/widgets/latest-posts.php:14
+msgid "Displays latest news"
+msgstr ""
+
+#: inc/widgets/latest-posts.php:36 inc/widgets/popular-post/widget.php:34
+msgid "Number of posts to show: "
+msgstr ""
+
+#: inc/widgets/latest-posts.php:43
+msgid "ASC"
+msgstr ""
+
+#: inc/widgets/latest-posts.php:44
+msgid "DESC"
+msgstr ""
+
+#: inc/widgets/latest-posts.php:49
+msgid "Orderby"
+msgstr ""
+
+#: inc/widgets/latest-posts.php:51
+msgid "None"
+msgstr ""
+
+#: inc/widgets/latest-posts.php:53
+msgid "Name"
+msgstr ""
+
+#: inc/widgets/latest-posts.php:54
+msgid "Date"
+msgstr ""
+
+#: inc/widgets/latest-posts.php:55
+msgid "Modified"
+msgstr ""
+
+#: inc/widgets/latest-posts.php:61 inc/widgets/popular-post/widget.php:39
+msgid "Show meta ? "
+msgstr ""
+
+#: inc/widgets/latest-posts.php:69 inc/widgets/popular-post/widget.php:47
+msgid "Show Post thumbnail ? "
+msgstr ""
+
+#: inc/widgets/latest-posts.php:148
+msgid "News Not Found!"
+msgstr ""
+
+#: inc/widgets/popular-post/widget.php:12
+msgid "TrendyMag Popular Posts"
+msgstr ""
+
+#: inc/widgets/popular-post/widget.php:13
+msgid "Your site's most popular and recent posts."
+msgstr ""
+
+#: inc/widgets/popular-post/widget.php:55
+msgid "Show Post view ? "
+msgstr ""
+
+#: inc/widgets/sidebar-ad.php:11
+msgid "TrendyMag Ads"
+msgstr ""
+
+#: inc/widgets/sidebar-ad.php:12
+msgid "Displays ads on sidebar"
+msgstr ""
+
+#: inc/widgets/sidebar-ad.php:30
+msgid "Select Author"
+msgstr ""
+
+#: inc/widgets/sidebar-ad.php:34
+msgid "Sidebar ad one"
+msgstr ""
+
+#: inc/widgets/sidebar-ad.php:35
+msgid "Sidebar ad two"
+msgstr ""
+
+#: inc/widgets/sidebar-ad.php:43
+#, php-format
+msgid "Ad management option can be found on %s"
+msgstr ""
+
+#: inc/widgets/sidebar-ad.php:43
+msgid "TrendyMag Options"
+msgstr ""
+
+#: inc/widgets/social-icons.php:8
+msgid "TrendyMag Social Icons"
+msgstr ""
+
+#: inc/widgets/social-icons.php:9
+msgid "Displays social icons"
+msgstr ""
+
+#: inc/widgets/social-icons.php:41
+msgid "Select icon size:"
+msgstr ""
+
+#: inc/widgets/social-icons.php:50
+msgid "Enter facebook URL:"
+msgstr ""
+
+#: inc/widgets/social-icons.php:54
+msgid "Enter twitter URL:"
+msgstr ""
+
+#: inc/widgets/social-icons.php:58
+msgid "Enter google URL:"
+msgstr ""
+
+#: inc/widgets/social-icons.php:62
+msgid "Enter pinterest URL:"
+msgstr ""
+
+#: inc/widgets/social-icons.php:66
+msgid "Enter dribbble URL:"
+msgstr ""
+
+#: inc/widgets/social-icons.php:70
+msgid "Enter behance URL:"
+msgstr ""
+
+#: inc/widgets/social-icons.php:74
+msgid "Enter instagram URL:"
+msgstr ""
+
+#: inc/widgets/social-icons.php:78
+msgid "Enter linkedin URL:"
+msgstr ""
+
+#: inc/widgets/social-icons.php:82
+msgid "Enter delicious URL:"
+msgstr ""
+
+#: inc/widgets/social-icons.php:86
+msgid "Enter soundcloud URL:"
+msgstr ""
+
+#: inc/widgets/social-icons.php:90
+msgid "Enter youtube URL:"
+msgstr ""
+
+#: inc/widgets/social-icons.php:94
+msgid "Enter flickr URL:"
+msgstr ""
+
+#: inc/widgets/social-icons.php:98
+msgid "Enter vimeo URL:"
+msgstr ""
+
+#: inc/widgets/social-icons.php:102
+msgid "Enter github URL:"
+msgstr ""
+
+#: inc/widgets/social-icons.php:106
+msgid "Enter tumblr URL:"
+msgstr ""
+
+#: inc/widgets/social-icons.php:110
+msgid "Enter android URL:"
+msgstr ""
+
+#: inc/widgets/social-icons.php:114
+msgid "Enter digg URL:"
+msgstr ""
+
+#: inc/widgets/twitter.php:12
+msgid "TrendyMag Twitter Widget"
+msgstr ""
+
+#: inc/widgets/twitter.php:13
+msgid "Displays twitter post"
+msgstr ""
+
+#: inc/widgets/twitter.php:136
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: inc/widgets/twitter.php:141
+msgid "Error Can not Get Tweets, Incorrect account info."
+msgstr ""
+
+#: inc/widgets/twitter.php:168
+msgid "Follow Us"
+msgstr ""
+
+#: inc/widgets/twitter.php:190
+msgid "Consumer key:"
+msgstr ""
+
+#: inc/widgets/twitter.php:193
+msgid "Consumer secret:"
+msgstr ""
+
+#: inc/widgets/twitter.php:197
+msgid "Number of Tweets to show:"
+msgstr ""
+
+#: inc/widgets/weather.php:16
+msgid "TrendyMag Weather Widget"
+msgstr ""
+
+#: inc/widgets/weather.php:17
+msgid "Displays weather info"
+msgstr ""
+
+#: inc/widgets/weather.php:23
+msgid "Weather"
+msgstr ""
+
+#: inc/widgets/weather.php:44
+msgid "Location:"
+msgstr ""
+
+#: inc/widgets/weather.php:44
+msgid "Find Your Location"
+msgstr ""
+
+#: inc/widgets/weather.php:45
+msgid "(i.e: New York City, NY)"
+msgstr ""
+
+#: inc/widgets/weather.php:51
+msgid "API key"
+msgstr ""
+
+#: inc/widgets/weather.php:51
+msgid "How to get your API Key?"
+msgstr ""
+
+#: inc/widgets/weather.php:57
+msgid "Units:"
+msgstr ""
+
+#: inc/widgets/weather.php:58
+msgid "F"
+msgstr ""
+
+#: inc/widgets/weather.php:59
+msgid "C"
+msgstr ""
+
+#: inc/widgets/weather.php:64
+msgid "Custom City Name:"
+msgstr ""
+
+#: inc/widgets/weather.php:69
+msgid "Background Color:"
+msgstr ""
+
+#: inc/widgets/weather.php:74
+msgid "Text Color:"
+msgstr ""
+
+#: inc/widgets/weather.php:154
+msgid "WEATHER WIDGET: You need to set the API key and Location."
+msgstr ""
+
+#: inc/widgets/weather.php:306
+msgid "km/h"
+msgstr ""
+
+#: inc/widgets/weather.php:306
+msgid "mph"
+msgstr ""
+
+#: inc/widgets/weather.php:319
+msgid "humidity:"
+msgstr ""
+
+#: inc/widgets/weather.php:320
+msgid "wind:"
+msgstr ""
+
+#: inc/widgets/weather.php:449
+msgid "No weather information available"
+msgstr ""

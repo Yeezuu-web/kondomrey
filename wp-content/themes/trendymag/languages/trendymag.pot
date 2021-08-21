@@ -1,0 +1,4307 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TrendyMag\n"
+"POT-Creation-Date: 2017-07-26 23:44+0600\n"
+"PO-Revision-Date: 2017-07-26 23:44+0600\n"
+"Last-Translator: \n"
+"Language-Team: TrendyTheme <trendytheme.net@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_html_x;_n_noop;_x;_nx;_n;__;"
+"_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:10 inc/template-tags.php:358
+msgid "404"
+msgstr ""
+
+#: 404.php:12
+msgid "Page Not Found!"
+msgstr ""
+
+#: 404.php:14
+msgid "Sorry, we couldn't find the content you were looking for."
+msgstr ""
+
+#: 404.php:16
+msgid "Go Back Home"
+msgstr ""
+
+#: admin/theme-options-config.php:44
+#, php-format
+msgid "%s Options"
+msgstr ""
+
+#: admin/theme-options-config.php:45 admin/theme-options-config.php:102
+#, php-format
+msgid "%s Theme Options"
+msgstr ""
+
+#: admin/theme-options-config.php:156
+msgid "General Settings"
+msgstr ""
+
+#: admin/theme-options-config.php:162
+msgid "Select site layout"
+msgstr ""
+
+#: admin/theme-options-config.php:164
+msgid "Full Width Layout"
+msgstr ""
+
+#: admin/theme-options-config.php:165
+msgid "Box Layout"
+msgstr ""
+
+#: admin/theme-options-config.php:166
+msgid "Box Frame Layout"
+msgstr ""
+
+#: admin/theme-options-config.php:167
+msgid "Full width Box Layout"
+msgstr ""
+
+#: admin/theme-options-config.php:175
+msgid "Body Background image"
+msgstr ""
+
+#: admin/theme-options-config.php:176
+msgid "Body background with image, color, etc."
+msgstr ""
+
+#: admin/theme-options-config.php:190
+msgid "RTL"
+msgstr ""
+
+#: admin/theme-options-config.php:191
+msgid "Enable or Disabled RTL"
+msgstr ""
+
+#: admin/theme-options-config.php:192 admin/theme-options-config.php:853
+#: admin/theme-options-config.php:1332 admin/theme-options-config.php:1403
+#: admin/theme-options-config.php:1414 admin/theme-options-config.php:1425
+#: admin/theme-options-config.php:1436 admin/theme-options-config.php:1454
+#: admin/theme-options-config.php:1528 admin/theme-options-config.php:1539
+#: admin/theme-options-config.php:1550 admin/theme-options-config.php:1561
+#: admin/theme-options-config.php:1579 admin/theme-options-config.php:1653
+#: admin/theme-options-config.php:1664 admin/theme-options-config.php:1675
+#: admin/theme-options-config.php:1686 admin/theme-options-config.php:1704
+#: admin/theme-options-config.php:1775 admin/theme-options-config.php:1786
+#: admin/theme-options-config.php:1797 admin/theme-options-config.php:1808
+#: admin/theme-options-config.php:1826 admin/theme-options-config.php:1897
+#: admin/theme-options-config.php:1908 admin/theme-options-config.php:1919
+#: admin/theme-options-config.php:1930 admin/theme-options-config.php:1948
+#: admin/theme-options-config.php:2019 admin/theme-options-config.php:2030
+#: admin/theme-options-config.php:2041 admin/theme-options-config.php:2052
+#: admin/theme-options-config.php:2072
+#: visual-composer/vc_extend/tt-gallery.php:91
+#: visual-composer/vc_extend/tt-video-gallery.php:60
+msgid "Enable"
+msgstr ""
+
+#: admin/theme-options-config.php:193
+msgid "Disabled"
+msgstr ""
+
+#: admin/theme-options-config.php:205
+msgid "Logo Settings"
+msgstr ""
+
+#: admin/theme-options-config.php:210
+msgid "Logo Type"
+msgstr ""
+
+#: admin/theme-options-config.php:211
+msgid "You can set text or image logo"
+msgstr ""
+
+#: admin/theme-options-config.php:212
+msgid "Image Logo"
+msgstr ""
+
+#: admin/theme-options-config.php:213
+msgid "Text Logo"
+msgstr ""
+
+#: admin/theme-options-config.php:220
+msgid "Logo Text"
+msgstr ""
+
+#: admin/theme-options-config.php:221
+msgid "Change your logo text"
+msgstr ""
+
+#: admin/theme-options-config.php:228
+msgid "Site Logo."
+msgstr ""
+
+#: admin/theme-options-config.php:229
+msgid "Change Site logo dimension: 145px &times; 55px"
+msgstr ""
+
+#: admin/theme-options-config.php:236
+msgid "Retina Logo Image (High Density)"
+msgstr ""
+
+#: admin/theme-options-config.php:237
+msgid "Change Retina logo dimension: 290px &times; 110px"
+msgstr ""
+
+#: admin/theme-options-config.php:238 admin/theme-options-config.php:255
+#: admin/theme-options-config.php:272 admin/theme-options-config.php:289
+msgid ""
+"Add a 290px &times; 110px pixels image that will be used as the logo in the "
+"header section. For the Retina Logo Image the even number of pixels is less "
+"important because it will be hardly noticable"
+msgstr ""
+
+#: admin/theme-options-config.php:245
+msgid "Site Mobile Logo."
+msgstr ""
+
+#: admin/theme-options-config.php:246
+msgid "Change site mobile logo dimension: 145px &times; 55px"
+msgstr ""
+
+#: admin/theme-options-config.php:253
+msgid "Retina Mobile Logo Image (High Density)"
+msgstr ""
+
+#: admin/theme-options-config.php:254
+msgid "Change retina mobile logo dimension: 290px &times; 110px"
+msgstr ""
+
+#: admin/theme-options-config.php:262
+msgid "Site Sticky Logo."
+msgstr ""
+
+#: admin/theme-options-config.php:263
+msgid "Change site sticky logo dimension: 145px &times; 55px"
+msgstr ""
+
+#: admin/theme-options-config.php:270
+msgid "Retina Sticky Logo Image (High Density)"
+msgstr ""
+
+#: admin/theme-options-config.php:271
+msgid "Change retina sticky logo dimension: 290px &times; 110px"
+msgstr ""
+
+#: admin/theme-options-config.php:279
+msgid "Site Sticky Mobile Logo."
+msgstr ""
+
+#: admin/theme-options-config.php:280
+msgid "Change site sticky mobile logo dimension: 145px &times; 55px"
+msgstr ""
+
+#: admin/theme-options-config.php:287
+msgid "Retina Sticky Mobile Logo Image (High Density)"
+msgstr ""
+
+#: admin/theme-options-config.php:288
+msgid "Change retina sticky mobile logo dimension: 290px &times; 110px"
+msgstr ""
+
+#: admin/theme-options-config.php:299
+msgid "Logo Margin Option"
+msgstr ""
+
+#: admin/theme-options-config.php:300
+msgid "You can change logo margin if needed."
+msgstr ""
+
+#: admin/theme-options-config.php:301 admin/theme-options-config.php:379
+#: admin/theme-options-config.php:391
+msgid "Change top, right, bottom and left value in px, e.g: 10"
+msgstr ""
+
+#: admin/theme-options-config.php:312
+msgid "Header Settings"
+msgstr ""
+
+#: admin/theme-options-config.php:317
+msgid "Header Style"
+msgstr ""
+
+#: admin/theme-options-config.php:325
+msgid "Header styles"
+msgstr ""
+
+#: admin/theme-options-config.php:326
+msgid "Select Header Style."
+msgstr ""
+
+#: admin/theme-options-config.php:329
+msgid "Header default"
+msgstr ""
+
+#: admin/theme-options-config.php:333 inc/metabox.php:129
+msgid "Header two"
+msgstr ""
+
+#: admin/theme-options-config.php:344
+msgid "Menu colored border"
+msgstr ""
+
+#: admin/theme-options-config.php:345
+msgid "Visible or Hidden colored border"
+msgstr ""
+
+#: admin/theme-options-config.php:346 admin/theme-options-config.php:425
+#: admin/theme-options-config.php:436 admin/theme-options-config.php:456
+#: admin/theme-options-config.php:467 admin/theme-options-config.php:478
+#: admin/theme-options-config.php:498 admin/theme-options-config.php:509
+#: admin/theme-options-config.php:520 admin/theme-options-config.php:531
+#: admin/theme-options-config.php:550
+msgid "Visible"
+msgstr ""
+
+#: admin/theme-options-config.php:347 admin/theme-options-config.php:426
+#: admin/theme-options-config.php:437 admin/theme-options-config.php:457
+#: admin/theme-options-config.php:468 admin/theme-options-config.php:479
+#: admin/theme-options-config.php:499 admin/theme-options-config.php:510
+#: admin/theme-options-config.php:521 admin/theme-options-config.php:532
+#: admin/theme-options-config.php:551
+msgid "Hidden"
+msgstr ""
+
+#: admin/theme-options-config.php:355
+msgid "Breadcrumb"
+msgstr ""
+
+#: admin/theme-options-config.php:356
+msgid "Show or Hide Your website Breadcrumb"
+msgstr ""
+
+#: admin/theme-options-config.php:357 admin/theme-options-config.php:885
+#: admin/theme-options-config.php:998 admin/theme-options-config.php:1009
+#: admin/theme-options-config.php:1020 admin/theme-options-config.php:1059
+#: admin/theme-options-config.php:1105 admin/theme-options-config.php:1243
+#: admin/theme-options-config.php:2178
+#: visual-composer/vc_extend/tt-category-layout-one.php:101
+#: visual-composer/vc_extend/tt-category-layout-one.php:115
+#: visual-composer/vc_extend/tt-category-layout-one.php:129
+#: visual-composer/vc_extend/tt-featured-news.php:78
+#: visual-composer/vc_extend/tt-featured-news.php:115
+#: visual-composer/vc_extend/tt-news-slider.php:197
+#: visual-composer/vc_extend/tt-news-slider.php:211
+#: visual-composer/vc_extend/tt-news-slider.php:225
+#: visual-composer/vc_extend/tt-popular-news.php:202
+#: visual-composer/vc_extend/tt-popular-news.php:216
+#: visual-composer/vc_extend/tt-popular-news.php:230
+#: visual-composer/vc_extend/tt-popular-news.php:244
+#: visual-composer/vc_extend/tt-recent-news-filter.php:149
+#: visual-composer/vc_extend/tt-recent-news-filter.php:181
+#: visual-composer/vc_extend/tt-recent-news-filter.php:195
+#: visual-composer/vc_extend/tt-recent-news-filter.php:209
+#: visual-composer/vc_extend/tt-recent-news-filter.php:223
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:201
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:215
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:229
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:243
+#: visual-composer/vc_extend/tt-recent-news.php:212
+#: visual-composer/vc_extend/tt-recent-news.php:226
+#: visual-composer/vc_extend/tt-recent-news.php:240
+#: visual-composer/vc_extend/tt-recent-news.php:254
+#: visual-composer/vc_extend/tt-section-title.php:107
+#: visual-composer/vc_extend/tt-single-category-news.php:141
+#: visual-composer/vc_extend/tt-single-category-news.php:180
+#: visual-composer/vc_extend/tt-single-category-news.php:194
+#: visual-composer/vc_extend/tt-single-category-news.php:336
+msgid "Show"
+msgstr ""
+
+#: admin/theme-options-config.php:358 admin/theme-options-config.php:886
+#: admin/theme-options-config.php:999 admin/theme-options-config.php:1010
+#: admin/theme-options-config.php:1021 admin/theme-options-config.php:1060
+#: admin/theme-options-config.php:1106 admin/theme-options-config.php:1244
+#: admin/theme-options-config.php:2179
+#: visual-composer/vc_extend/tt-category-layout-one.php:102
+#: visual-composer/vc_extend/tt-category-layout-one.php:116
+#: visual-composer/vc_extend/tt-category-layout-one.php:130
+#: visual-composer/vc_extend/tt-featured-news.php:79
+#: visual-composer/vc_extend/tt-featured-news.php:116
+#: visual-composer/vc_extend/tt-news-slider.php:198
+#: visual-composer/vc_extend/tt-news-slider.php:212
+#: visual-composer/vc_extend/tt-news-slider.php:226
+#: visual-composer/vc_extend/tt-popular-news.php:203
+#: visual-composer/vc_extend/tt-popular-news.php:217
+#: visual-composer/vc_extend/tt-popular-news.php:231
+#: visual-composer/vc_extend/tt-popular-news.php:245
+#: visual-composer/vc_extend/tt-recent-news-filter.php:150
+#: visual-composer/vc_extend/tt-recent-news-filter.php:182
+#: visual-composer/vc_extend/tt-recent-news-filter.php:196
+#: visual-composer/vc_extend/tt-recent-news-filter.php:210
+#: visual-composer/vc_extend/tt-recent-news-filter.php:224
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:202
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:216
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:230
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:244
+#: visual-composer/vc_extend/tt-recent-news.php:213
+#: visual-composer/vc_extend/tt-recent-news.php:227
+#: visual-composer/vc_extend/tt-recent-news.php:241
+#: visual-composer/vc_extend/tt-recent-news.php:255
+#: visual-composer/vc_extend/tt-section-title.php:108
+#: visual-composer/vc_extend/tt-single-category-news.php:142
+#: visual-composer/vc_extend/tt-single-category-news.php:181
+#: visual-composer/vc_extend/tt-single-category-news.php:195
+#: visual-composer/vc_extend/tt-single-category-news.php:337
+msgid "Hide"
+msgstr ""
+
+#: admin/theme-options-config.php:366
+msgid "Menu Style"
+msgstr ""
+
+#: admin/theme-options-config.php:377
+msgid "Main menu margin option"
+msgstr ""
+
+#: admin/theme-options-config.php:378
+msgid "You can change main menu margin if needed."
+msgstr ""
+
+#: admin/theme-options-config.php:389
+msgid "Navbar Padding Option"
+msgstr ""
+
+#: admin/theme-options-config.php:390
+msgid "You can change navbar padding if needed."
+msgstr ""
+
+#: admin/theme-options-config.php:398
+msgid "Menu background color"
+msgstr ""
+
+#: admin/theme-options-config.php:399
+msgid "Pick color for menu background."
+msgstr ""
+
+#: admin/theme-options-config.php:406
+msgid "Menu font color"
+msgstr ""
+
+#: admin/theme-options-config.php:407
+msgid "Pick color for menu."
+msgstr ""
+
+#: admin/theme-options-config.php:414
+msgid "Menu active and hover color"
+msgstr ""
+
+#: admin/theme-options-config.php:415
+msgid "Pick color for menu active and hover text color."
+msgstr ""
+
+#: admin/theme-options-config.php:423
+msgid "Sticky menu visibility"
+msgstr ""
+
+#: admin/theme-options-config.php:424
+msgid "Visible or Hidden sticky menu"
+msgstr ""
+
+#: admin/theme-options-config.php:434
+msgid "Search visibility"
+msgstr ""
+
+#: admin/theme-options-config.php:435
+msgid "Visible or Hidden search button"
+msgstr ""
+
+#: admin/theme-options-config.php:445
+msgid "Header topbar"
+msgstr ""
+
+#: admin/theme-options-config.php:454
+msgid "Header topbar visibility"
+msgstr ""
+
+#: admin/theme-options-config.php:455
+msgid "Visible or Hidden header topbar"
+msgstr ""
+
+#: admin/theme-options-config.php:465
+msgid "Header menu visibility"
+msgstr ""
+
+#: admin/theme-options-config.php:466
+msgid "Visible or Hidden header menu"
+msgstr ""
+
+#: admin/theme-options-config.php:476
+msgid "Header weather visibility"
+msgstr ""
+
+#: admin/theme-options-config.php:477
+msgid "Visible or Hidden header weather"
+msgstr ""
+
+#: admin/theme-options-config.php:487
+msgid "Header contact"
+msgstr ""
+
+#: admin/theme-options-config.php:488
+msgid "Change header contact info"
+msgstr ""
+
+#: admin/theme-options-config.php:496
+msgid "Header date visibility"
+msgstr ""
+
+#: admin/theme-options-config.php:497
+msgid "Visible or Hidden header date"
+msgstr ""
+
+#: admin/theme-options-config.php:507
+msgid "Header social icon visibility"
+msgstr ""
+
+#: admin/theme-options-config.php:508
+msgid "Visible or Hidden header social icon"
+msgstr ""
+
+#: admin/theme-options-config.php:518
+msgid "Header offcanvas trigger visibility"
+msgstr ""
+
+#: admin/theme-options-config.php:519
+msgid "Visible or Hidden header sidebar trigger"
+msgstr ""
+
+#: admin/theme-options-config.php:529
+msgid "Offcanvas logo visibility"
+msgstr ""
+
+#: admin/theme-options-config.php:530
+msgid "Visible or Hidden logo from offcanvas"
+msgstr ""
+
+#: admin/theme-options-config.php:541
+msgid "News Ticker"
+msgstr ""
+
+#: admin/theme-options-config.php:548
+msgid "Breaking News Visibility"
+msgstr ""
+
+#: admin/theme-options-config.php:549
+msgid "Visible or Hidden topbar newsfeed"
+msgstr ""
+
+#: admin/theme-options-config.php:559
+msgid "Visibility area"
+msgstr ""
+
+#: admin/theme-options-config.php:560
+msgid "Home page only"
+msgstr ""
+
+#: admin/theme-options-config.php:561
+msgid "All pages"
+msgstr ""
+
+#: admin/theme-options-config.php:562
+msgid "You can show breaking news only home page or all pages"
+msgstr ""
+
+#: admin/theme-options-config.php:570
+msgid "Breaking news prefix"
+msgstr ""
+
+#: admin/theme-options-config.php:571
+msgid "Change news prefix text"
+msgstr ""
+
+#: admin/theme-options-config.php:572
+msgid "Breaking"
+msgstr ""
+
+#: admin/theme-options-config.php:579 admin/theme-options-config.php:586
+#: visual-composer/vc_extend/tt-gallery.php:51
+#: visual-composer/vc_extend/tt-video-gallery.php:24
+msgid "Select post source"
+msgstr ""
+
+#: admin/theme-options-config.php:593
+msgid "Select posts"
+msgstr ""
+
+#: admin/theme-options-config.php:600
+msgid "Select post to show on breaking news"
+msgstr ""
+
+#: admin/theme-options-config.php:607
+msgid "Select a category"
+msgstr ""
+
+#: admin/theme-options-config.php:609
+msgid "Select a cateogry to show selected category post"
+msgstr ""
+
+#: admin/theme-options-config.php:616
+msgid "Breaking news limit"
+msgstr ""
+
+#: admin/theme-options-config.php:617
+msgid "Change post limit for breaking news"
+msgstr ""
+
+#: admin/theme-options-config.php:631
+msgid "Preset color"
+msgstr ""
+
+#: admin/theme-options-config.php:637
+msgid "Site Accent Color"
+msgstr ""
+
+#: admin/theme-options-config.php:638
+msgid "Pick color for the theme accent color (default: #ff3c00)."
+msgstr ""
+
+#: admin/theme-options-config.php:645
+msgid "Site Link Color"
+msgstr ""
+
+#: admin/theme-options-config.php:646
+msgid "Pick color for all link (default: #ff3c00)."
+msgstr ""
+
+#: admin/theme-options-config.php:653
+msgid "Section title color"
+msgstr ""
+
+#: admin/theme-options-config.php:654
+msgid "Pick color for section title (default: #212121)."
+msgstr ""
+
+#: admin/theme-options-config.php:667
+msgid "Typography"
+msgstr ""
+
+#: admin/theme-options-config.php:674
+msgid "Body Font"
+msgstr ""
+
+#: admin/theme-options-config.php:675
+msgid "Specify the body font properties."
+msgstr ""
+
+#: admin/theme-options-config.php:693
+msgid "Heading Font"
+msgstr ""
+
+#: admin/theme-options-config.php:694
+msgid "This settings for all heading font (h1, h2, h3, h4, h5, h6)"
+msgstr ""
+
+#: admin/theme-options-config.php:711
+msgid "H1 (Heading one)"
+msgstr ""
+
+#: admin/theme-options-config.php:712
+msgid "This settings only for H1"
+msgstr ""
+
+#: admin/theme-options-config.php:732
+msgid "H2 (Heading two)"
+msgstr ""
+
+#: admin/theme-options-config.php:733
+msgid "This settings only for H2"
+msgstr ""
+
+#: admin/theme-options-config.php:753
+msgid "H3 (Heading three)"
+msgstr ""
+
+#: admin/theme-options-config.php:754
+msgid "This settings only for H3"
+msgstr ""
+
+#: admin/theme-options-config.php:773
+msgid "H4 (Heading four)"
+msgstr ""
+
+#: admin/theme-options-config.php:774
+msgid "This settings only for H4"
+msgstr ""
+
+#: admin/theme-options-config.php:793
+msgid "H5 (Heading five)"
+msgstr ""
+
+#: admin/theme-options-config.php:794
+msgid "This settings only for H5"
+msgstr ""
+
+#: admin/theme-options-config.php:813
+msgid "H6 (Heading six)"
+msgstr ""
+
+#: admin/theme-options-config.php:814
+msgid "This settings only for H6"
+msgstr ""
+
+#: admin/theme-options-config.php:838
+msgid "Blog Settings"
+msgstr ""
+
+#: admin/theme-options-config.php:844
+msgid "Blog Page Title"
+msgstr ""
+
+#: admin/theme-options-config.php:845
+msgid "Enter Blog page title here, if leave blank then site title will appear"
+msgstr ""
+
+#: admin/theme-options-config.php:851
+msgid "Overlay"
+msgstr ""
+
+#: admin/theme-options-config.php:852
+msgid "Enable or disable blog page title background overlay"
+msgstr ""
+
+#: admin/theme-options-config.php:854 admin/theme-options-config.php:1333
+#: admin/theme-options-config.php:1404 admin/theme-options-config.php:1415
+#: admin/theme-options-config.php:1426 admin/theme-options-config.php:1437
+#: admin/theme-options-config.php:1455 admin/theme-options-config.php:1529
+#: admin/theme-options-config.php:1540 admin/theme-options-config.php:1551
+#: admin/theme-options-config.php:1562 admin/theme-options-config.php:1580
+#: admin/theme-options-config.php:1654 admin/theme-options-config.php:1665
+#: admin/theme-options-config.php:1676 admin/theme-options-config.php:1687
+#: admin/theme-options-config.php:1705 admin/theme-options-config.php:1776
+#: admin/theme-options-config.php:1787 admin/theme-options-config.php:1798
+#: admin/theme-options-config.php:1809 admin/theme-options-config.php:1827
+#: admin/theme-options-config.php:1898 admin/theme-options-config.php:1909
+#: admin/theme-options-config.php:1920 admin/theme-options-config.php:1931
+#: admin/theme-options-config.php:1949 admin/theme-options-config.php:2020
+#: admin/theme-options-config.php:2031 admin/theme-options-config.php:2042
+#: admin/theme-options-config.php:2053 admin/theme-options-config.php:2073
+#: visual-composer/vc_extend/tt-gallery.php:92
+#: visual-composer/vc_extend/tt-video-gallery.php:61
+msgid "Disable"
+msgstr ""
+
+#: admin/theme-options-config.php:861
+msgid "Blog sidebar setting"
+msgstr ""
+
+#: admin/theme-options-config.php:862
+msgid "Select blog sidebar"
+msgstr ""
+
+#: admin/theme-options-config.php:865 admin/theme-options-config.php:978
+#: admin/theme-options-config.php:1169 admin/theme-options-config.php:1294
+msgid "No sidebar"
+msgstr ""
+
+#: admin/theme-options-config.php:869 admin/theme-options-config.php:982
+#: admin/theme-options-config.php:1173 admin/theme-options-config.php:1298
+msgid "Left sidebar"
+msgstr ""
+
+#: admin/theme-options-config.php:873 admin/theme-options-config.php:986
+#: admin/theme-options-config.php:1177 admin/theme-options-config.php:1302
+msgid "Right sidebar"
+msgstr ""
+
+#: admin/theme-options-config.php:883
+msgid "Post lightbox"
+msgstr ""
+
+#: admin/theme-options-config.php:884
+msgid "Check to show post lightbox for standard and gallery post only"
+msgstr ""
+
+#: admin/theme-options-config.php:893
+msgid "Post meta options"
+msgstr ""
+
+#: admin/theme-options-config.php:894
+msgid "Check to show post meta"
+msgstr ""
+
+#: admin/theme-options-config.php:896
+msgid "Post Date"
+msgstr ""
+
+#: admin/theme-options-config.php:897
+msgid "Post Author"
+msgstr ""
+
+#: admin/theme-options-config.php:898 admin/theme-options-config.php:899
+msgid "Post Category"
+msgstr ""
+
+#: admin/theme-options-config.php:900
+msgid "Post View"
+msgstr ""
+
+#: admin/theme-options-config.php:901
+msgid "Post Comment"
+msgstr ""
+
+#: admin/theme-options-config.php:916
+msgid "Blog Pagination or Navigation"
+msgstr ""
+
+#: admin/theme-options-config.php:917
+msgid "Blog pagination style, posts pagination or newer / older posts"
+msgstr ""
+
+#: admin/theme-options-config.php:918
+msgid "Pagination"
+msgstr ""
+
+#: admin/theme-options-config.php:919
+msgid "Navigation"
+msgstr ""
+
+#: admin/theme-options-config.php:931
+msgid "Single News Settings"
+msgstr ""
+
+#: admin/theme-options-config.php:936
+msgid "Single News Layout setting"
+msgstr ""
+
+#: admin/theme-options-config.php:937
+msgid "Select single news style"
+msgstr ""
+
+#: admin/theme-options-config.php:940
+msgid "style default"
+msgstr ""
+
+#: admin/theme-options-config.php:944
+msgid "style two"
+msgstr ""
+
+#: admin/theme-options-config.php:948
+msgid "style three"
+msgstr ""
+
+#: admin/theme-options-config.php:952
+msgid "style four"
+msgstr ""
+
+#: admin/theme-options-config.php:956
+msgid "style five"
+msgstr ""
+
+#: admin/theme-options-config.php:960
+msgid "style six"
+msgstr ""
+
+#: admin/theme-options-config.php:964
+msgid "style seven"
+msgstr ""
+
+#: admin/theme-options-config.php:974
+msgid "Single news sidebar setting"
+msgstr ""
+
+#: admin/theme-options-config.php:975
+msgid "Select single news sidebar"
+msgstr ""
+
+#: admin/theme-options-config.php:997
+msgid "Show or hide share button"
+msgstr ""
+
+#: admin/theme-options-config.php:1007
+msgid "Share button top"
+msgstr ""
+
+#: admin/theme-options-config.php:1008
+msgid "Displays share button on the top of the post"
+msgstr ""
+
+#: admin/theme-options-config.php:1018
+msgid "Share button bottom"
+msgstr ""
+
+#: admin/theme-options-config.php:1019
+msgid "Displays share button on the bottom of the post"
+msgstr ""
+
+#: admin/theme-options-config.php:1029 admin/theme-options-config.php:1115
+msgid "Share button"
+msgstr ""
+
+#: admin/theme-options-config.php:1030
+msgid "Check to show share button"
+msgstr ""
+
+#: admin/theme-options-config.php:1032 admin/theme-options-config.php:1118
+msgid "Facebook"
+msgstr ""
+
+#: admin/theme-options-config.php:1033 admin/theme-options-config.php:1119
+msgid "Twitter"
+msgstr ""
+
+#: admin/theme-options-config.php:1034
+msgid "Google+"
+msgstr ""
+
+#: admin/theme-options-config.php:1035
+msgid "Pinterest"
+msgstr ""
+
+#: admin/theme-options-config.php:1036 admin/theme-options-config.php:1124
+msgid "Reddit"
+msgstr ""
+
+#: admin/theme-options-config.php:1037 admin/theme-options-config.php:1122
+msgid "Stumbleupon"
+msgstr ""
+
+#: admin/theme-options-config.php:1038 admin/theme-options-config.php:1123
+msgid "Digg"
+msgstr ""
+
+#: admin/theme-options-config.php:1039
+msgid "Delicious"
+msgstr ""
+
+#: admin/theme-options-config.php:1057
+msgid "Show Newsletter form"
+msgstr ""
+
+#: admin/theme-options-config.php:1058
+msgid "Show or hide neewsletter subscription form"
+msgstr ""
+
+#: admin/theme-options-config.php:1068
+msgid "Title text"
+msgstr ""
+
+#: admin/theme-options-config.php:1069
+msgid "Newsletter Subscription"
+msgstr ""
+
+#: admin/theme-options-config.php:1076
+msgid "Subtitle text"
+msgstr ""
+
+#: admin/theme-options-config.php:1077
+msgid "Subscribe to our mailing list to get the new updates!"
+msgstr ""
+
+#: admin/theme-options-config.php:1083 admin/theme-options-config.php:2169
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: admin/theme-options-config.php:1084 admin/theme-options-config.php:2170
+msgid "Write footer copyright text here."
+msgstr ""
+
+#: admin/theme-options-config.php:1097 admin/theme-options-config.php:1103
+msgid "Select to share"
+msgstr ""
+
+#: admin/theme-options-config.php:1104
+msgid "Show or Hide select to share button from content area"
+msgstr ""
+
+#: admin/theme-options-config.php:1116
+msgid "Choose share button"
+msgstr ""
+
+#: admin/theme-options-config.php:1120
+msgid "Tumblr"
+msgstr ""
+
+#: admin/theme-options-config.php:1121
+msgid "Buffer"
+msgstr ""
+
+#: admin/theme-options-config.php:1125
+msgid "Linkedin"
+msgstr ""
+
+#: admin/theme-options-config.php:1142
+msgid "Facebook APP ID"
+msgstr ""
+
+#: admin/theme-options-config.php:1143
+msgid "Enter facebook app id"
+msgstr ""
+
+#: admin/theme-options-config.php:1149
+msgid "Twitter username"
+msgstr ""
+
+#: admin/theme-options-config.php:1150
+msgid "Enter twitter username"
+msgstr ""
+
+#: admin/theme-options-config.php:1160
+msgid "Category Settings"
+msgstr ""
+
+#: admin/theme-options-config.php:1165
+msgid "Category Layout setting"
+msgstr ""
+
+#: admin/theme-options-config.php:1166
+msgid "Select category layout"
+msgstr ""
+
+#: admin/theme-options-config.php:1187 inc/metabox.php:256
+msgid "Category post style"
+msgstr ""
+
+#: admin/theme-options-config.php:1188
+msgid "Select category post style"
+msgstr ""
+
+#: admin/theme-options-config.php:1191
+#: visual-composer/vc_extend/tt-popular-news.php:34
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:22
+#: visual-composer/vc_extend/tt-recent-news.php:22
+#: visual-composer/vc_extend/tt-single-category-news.php:28
+msgid "Style one (Title on bottom of thumb)"
+msgstr ""
+
+#: admin/theme-options-config.php:1195
+#: visual-composer/vc_extend/tt-popular-news.php:35
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:23
+#: visual-composer/vc_extend/tt-recent-news.php:23
+#: visual-composer/vc_extend/tt-single-category-news.php:29
+msgid "Style two (Title on the thumb)"
+msgstr ""
+
+#: admin/theme-options-config.php:1199
+msgid "Style three (Title on the thumb)"
+msgstr ""
+
+#: admin/theme-options-config.php:1203
+msgid "Style four (Title on the thumb)"
+msgstr ""
+
+#: admin/theme-options-config.php:1207
+msgid "Style five (Title on the thumb)"
+msgstr ""
+
+#: admin/theme-options-config.php:1211
+msgid "Style six (Title on the thumb)"
+msgstr ""
+
+#: admin/theme-options-config.php:1215
+msgid "Style seven (Title on the thumb)"
+msgstr ""
+
+#: admin/theme-options-config.php:1226
+msgid "Word Limit"
+msgstr ""
+
+#: admin/theme-options-config.php:1227
+msgid "25"
+msgstr ""
+
+#: admin/theme-options-config.php:1237
+msgid "Related news Settings"
+msgstr ""
+
+#: admin/theme-options-config.php:1242
+msgid "Show related news on single page?"
+msgstr ""
+
+#: admin/theme-options-config.php:1252
+msgid "Change related text"
+msgstr ""
+
+#: admin/theme-options-config.php:1253
+msgid "Related Article"
+msgstr ""
+
+#: admin/theme-options-config.php:1260
+msgid "The number of total news to show"
+msgstr ""
+
+#: admin/theme-options-config.php:1261
+msgid "2"
+msgstr ""
+
+#: admin/theme-options-config.php:1268
+msgid "Select related post grid"
+msgstr ""
+
+#: admin/theme-options-config.php:1270
+msgid "Column 2"
+msgstr ""
+
+#: admin/theme-options-config.php:1271
+msgid "Column 3"
+msgstr ""
+
+#: admin/theme-options-config.php:1284
+msgid "Page Settings"
+msgstr ""
+
+#: admin/theme-options-config.php:1290
+msgid "Page Sidebar"
+msgstr ""
+
+#: admin/theme-options-config.php:1291
+msgid "Select page sidebar"
+msgstr ""
+
+#: admin/theme-options-config.php:1318
+msgid "Ads Settings"
+msgstr ""
+
+#: admin/theme-options-config.php:1322
+msgid "Header Ad"
+msgstr ""
+
+#: admin/theme-options-config.php:1325
+msgid "Header ads management"
+msgstr ""
+
+#: admin/theme-options-config.php:1330
+msgid "Visibility header ad"
+msgstr ""
+
+#: admin/theme-options-config.php:1331
+msgid "You can enable or disable ad from header"
+msgstr ""
+
+#: admin/theme-options-config.php:1341 admin/theme-options-config.php:1463
+#: admin/theme-options-config.php:1588 admin/theme-options-config.php:1713
+#: admin/theme-options-config.php:1835 admin/theme-options-config.php:1957
+msgid "Select ad type"
+msgstr ""
+
+#: admin/theme-options-config.php:1343 admin/theme-options-config.php:1354
+#: admin/theme-options-config.php:1465 admin/theme-options-config.php:1476
+#: admin/theme-options-config.php:1590 admin/theme-options-config.php:1601
+#: admin/theme-options-config.php:1715 admin/theme-options-config.php:1726
+#: admin/theme-options-config.php:1837 admin/theme-options-config.php:1848
+#: admin/theme-options-config.php:1959 admin/theme-options-config.php:1970
+msgid "Image Ad"
+msgstr ""
+
+#: admin/theme-options-config.php:1344 admin/theme-options-config.php:1466
+#: admin/theme-options-config.php:1591 admin/theme-options-config.php:1716
+#: admin/theme-options-config.php:1838 admin/theme-options-config.php:1960
+msgid "Adsense Ad"
+msgstr ""
+
+#: admin/theme-options-config.php:1355
+msgid "Choose a header ad, size is 728x90"
+msgstr ""
+
+#: admin/theme-options-config.php:1362 admin/theme-options-config.php:1484
+#: admin/theme-options-config.php:1609 admin/theme-options-config.php:1734
+#: admin/theme-options-config.php:1856 admin/theme-options-config.php:1978
+msgid "Image custom link"
+msgstr ""
+
+#: admin/theme-options-config.php:1363 admin/theme-options-config.php:1485
+#: admin/theme-options-config.php:1610 admin/theme-options-config.php:1735
+#: admin/theme-options-config.php:1857 admin/theme-options-config.php:1979
+msgid "Paste the custom url here, leave blank for no link"
+msgstr ""
+
+#: admin/theme-options-config.php:1370
+msgid "Your header ad"
+msgstr ""
+
+#: admin/theme-options-config.php:1371 admin/theme-options-config.php:1493
+#: admin/theme-options-config.php:1618 admin/theme-options-config.php:1743
+#: admin/theme-options-config.php:1865 admin/theme-options-config.php:1987
+msgid ""
+"Paste your ad code here. Google adsense will be made responsive "
+"automatically."
+msgstr ""
+
+#: admin/theme-options-config.php:1378
+msgid "All supported ad sizes for header:"
+msgstr ""
+
+#: admin/theme-options-config.php:1393 admin/theme-options-config.php:1518
+#: admin/theme-options-config.php:1643 admin/theme-options-config.php:1765
+#: admin/theme-options-config.php:1887 admin/theme-options-config.php:2009
+msgid "Add title"
+msgstr ""
+
+#: admin/theme-options-config.php:1394 admin/theme-options-config.php:1519
+#: admin/theme-options-config.php:1644 admin/theme-options-config.php:1766
+#: admin/theme-options-config.php:1888 admin/theme-options-config.php:2010
+msgid "A title for the Ad, e.g - Advertisement."
+msgstr ""
+
+#: admin/theme-options-config.php:1401 admin/theme-options-config.php:1526
+#: admin/theme-options-config.php:1651 admin/theme-options-config.php:1773
+#: admin/theme-options-config.php:1895 admin/theme-options-config.php:2017
+msgid "Disable on large screen ?"
+msgstr ""
+
+#: admin/theme-options-config.php:1402 admin/theme-options-config.php:1527
+#: admin/theme-options-config.php:1652 admin/theme-options-config.php:1774
+#: admin/theme-options-config.php:1896 admin/theme-options-config.php:2018
+msgid "You can enable or disable ad from desktop device"
+msgstr ""
+
+#: admin/theme-options-config.php:1412 admin/theme-options-config.php:1537
+#: admin/theme-options-config.php:1662 admin/theme-options-config.php:1784
+#: admin/theme-options-config.php:1906 admin/theme-options-config.php:2028
+msgid "Disable on medium screen ?"
+msgstr ""
+
+#: admin/theme-options-config.php:1413 admin/theme-options-config.php:1538
+#: admin/theme-options-config.php:1663 admin/theme-options-config.php:1785
+#: admin/theme-options-config.php:1907 admin/theme-options-config.php:2029
+msgid "You can enable or disable ad from desktop medium device"
+msgstr ""
+
+#: admin/theme-options-config.php:1423 admin/theme-options-config.php:1548
+#: admin/theme-options-config.php:1673 admin/theme-options-config.php:1795
+#: admin/theme-options-config.php:1917 admin/theme-options-config.php:2039
+msgid "Disable on tablet ?"
+msgstr ""
+
+#: admin/theme-options-config.php:1424 admin/theme-options-config.php:1549
+#: admin/theme-options-config.php:1674 admin/theme-options-config.php:1796
+#: admin/theme-options-config.php:1918 admin/theme-options-config.php:2040
+msgid "You can enable or disable ad from tablet device"
+msgstr ""
+
+#: admin/theme-options-config.php:1434 admin/theme-options-config.php:1559
+#: admin/theme-options-config.php:1684 admin/theme-options-config.php:1806
+#: admin/theme-options-config.php:1928 admin/theme-options-config.php:2050
+msgid "Disable on mobile ?"
+msgstr ""
+
+#: admin/theme-options-config.php:1435 admin/theme-options-config.php:1560
+#: admin/theme-options-config.php:1685 admin/theme-options-config.php:1807
+#: admin/theme-options-config.php:1929 admin/theme-options-config.php:2051
+msgid "You can enable or disable ad from mobile device"
+msgstr ""
+
+#: admin/theme-options-config.php:1444
+msgid "Sidebar Ad one"
+msgstr ""
+
+#: admin/theme-options-config.php:1447 admin/theme-options-config.php:1572
+msgid "Sidebar ads management"
+msgstr ""
+
+#: admin/theme-options-config.php:1452 admin/theme-options-config.php:1577
+msgid "Visibility sidebar ad"
+msgstr ""
+
+#: admin/theme-options-config.php:1453 admin/theme-options-config.php:1578
+msgid "You can enable or disable ad from sidebar"
+msgstr ""
+
+#: admin/theme-options-config.php:1477 admin/theme-options-config.php:1602
+msgid "Choose a sidebar ad, size is 300x250"
+msgstr ""
+
+#: admin/theme-options-config.php:1492
+msgid "Your sidebar ad"
+msgstr ""
+
+#: admin/theme-options-config.php:1500 admin/theme-options-config.php:1625
+msgid "All supported ad sizes for sidebar:"
+msgstr ""
+
+#: admin/theme-options-config.php:1569
+msgid "Sidebar Ad two"
+msgstr ""
+
+#: admin/theme-options-config.php:1617
+msgid "Your right sidebar ad"
+msgstr ""
+
+#: admin/theme-options-config.php:1694
+msgid "Footer top Ad"
+msgstr ""
+
+#: admin/theme-options-config.php:1697
+msgid "Footer top ads management"
+msgstr ""
+
+#: admin/theme-options-config.php:1702
+msgid "Visibility footer ad"
+msgstr ""
+
+#: admin/theme-options-config.php:1703
+msgid "You can enable or disable ad from footer"
+msgstr ""
+
+#: admin/theme-options-config.php:1727
+msgid "Choose a footer ad, size is 300x250"
+msgstr ""
+
+#: admin/theme-options-config.php:1742
+msgid "Your footer top ad"
+msgstr ""
+
+#: admin/theme-options-config.php:1750
+msgid "All supported ad sizes for footer:"
+msgstr ""
+
+#: admin/theme-options-config.php:1816
+msgid "Article top Ad"
+msgstr ""
+
+#: admin/theme-options-config.php:1819
+msgid "Article top ads management"
+msgstr ""
+
+#: admin/theme-options-config.php:1824
+msgid "Visibility article top ad"
+msgstr ""
+
+#: admin/theme-options-config.php:1825
+msgid "You can enable or disable ad from article top"
+msgstr ""
+
+#: admin/theme-options-config.php:1849
+msgid "Choose a article top ad, size is 300x250"
+msgstr ""
+
+#: admin/theme-options-config.php:1864
+msgid "Your article top ad"
+msgstr ""
+
+#: admin/theme-options-config.php:1872
+msgid "All supported ad sizes for article top:"
+msgstr ""
+
+#: admin/theme-options-config.php:1938
+msgid "Article bottom Ad"
+msgstr ""
+
+#: admin/theme-options-config.php:1941
+msgid "Article bottom ads management"
+msgstr ""
+
+#: admin/theme-options-config.php:1946
+msgid "Visibility article bottom ad"
+msgstr ""
+
+#: admin/theme-options-config.php:1947
+msgid "You can enable or disable ad from article bottom"
+msgstr ""
+
+#: admin/theme-options-config.php:1971
+msgid "Choose a article bottom ad, size is 300x250"
+msgstr ""
+
+#: admin/theme-options-config.php:1986
+msgid "Your article bottom ad"
+msgstr ""
+
+#: admin/theme-options-config.php:1994
+msgid "All supported ad sizes for article bottom:"
+msgstr ""
+
+#: admin/theme-options-config.php:2065
+msgid "Preloader Settings"
+msgstr ""
+
+#: admin/theme-options-config.php:2070
+msgid "Page Preloader"
+msgstr ""
+
+#: admin/theme-options-config.php:2071
+msgid "You can enable or disable page preloader from here."
+msgstr ""
+
+#: admin/theme-options-config.php:2081
+msgid "Preloader background color"
+msgstr ""
+
+#: admin/theme-options-config.php:2082
+msgid "Pick color for preloader background (default: #ffffff)."
+msgstr ""
+
+#: admin/theme-options-config.php:2091
+msgid "Animation file"
+msgstr ""
+
+#: admin/theme-options-config.php:2092
+msgid "Upload loader gif animation file"
+msgstr ""
+
+#: admin/theme-options-config.php:2104
+msgid "Footer Settings"
+msgstr ""
+
+#: admin/theme-options-config.php:2110
+msgid "Footer styles"
+msgstr ""
+
+#: admin/theme-options-config.php:2111
+msgid "Select Footer Style."
+msgstr ""
+
+#: admin/theme-options-config.php:2114
+msgid "Footer Default"
+msgstr ""
+
+#: admin/theme-options-config.php:2118 inc/metabox.php:158
+msgid "Footer two"
+msgstr ""
+
+#: admin/theme-options-config.php:2122 inc/metabox.php:159
+msgid "Footer three"
+msgstr ""
+
+#: admin/theme-options-config.php:2133
+msgid "Footer Logo."
+msgstr ""
+
+#: admin/theme-options-config.php:2134
+msgid "Change footer logo dimension: 150px &times; 30px"
+msgstr ""
+
+#: admin/theme-options-config.php:2141
+msgid "Footer Retina Logo (High Density)"
+msgstr ""
+
+#: admin/theme-options-config.php:2142
+msgid "Change Footer Retina logo dimension: 300px &times; 600px"
+msgstr ""
+
+#: admin/theme-options-config.php:2143
+msgid ""
+"Add a 300px &times; 60px pixels image that will be used as the logo in the "
+"header section. For the Retina Logo Image the even number of pixels is less "
+"important because it will be hardly noticable"
+msgstr ""
+
+#: admin/theme-options-config.php:2150
+msgid "Footer About Text"
+msgstr ""
+
+#: admin/theme-options-config.php:2151
+msgid "Write footer about text here."
+msgstr ""
+
+#: admin/theme-options-config.php:2176
+msgid "Footer Social icon visibility"
+msgstr ""
+
+#: admin/theme-options-config.php:2177
+msgid "Shor or hide social icon from footer"
+msgstr ""
+
+#: admin/theme-options-config.php:2190
+msgid "Social Icon"
+msgstr ""
+
+#: admin/theme-options-config.php:2196
+msgid "Facebook Link"
+msgstr ""
+
+#: admin/theme-options-config.php:2197
+msgid "Enter facebook page or profile link. Leave blank to hide icon."
+msgstr ""
+
+#: admin/theme-options-config.php:2204
+msgid "Twitter Link"
+msgstr ""
+
+#: admin/theme-options-config.php:2205
+msgid "Enter twitter link. Leave blank to hide icon."
+msgstr ""
+
+#: admin/theme-options-config.php:2212
+msgid "Google Plus Link"
+msgstr ""
+
+#: admin/theme-options-config.php:2213
+msgid "Enter google plus page or profile link. Leave blank to hide icon."
+msgstr ""
+
+#: admin/theme-options-config.php:2220
+msgid "Youtube Link"
+msgstr ""
+
+#: admin/theme-options-config.php:2221
+msgid "Enter youtube chanel link. Leave blank to hide icon."
+msgstr ""
+
+#: admin/theme-options-config.php:2227
+msgid "Pinterest Link"
+msgstr ""
+
+#: admin/theme-options-config.php:2228
+msgid "Enter pinterest link. Leave blank to hide icon."
+msgstr ""
+
+#: admin/theme-options-config.php:2235
+msgid "Flickr Link"
+msgstr ""
+
+#: admin/theme-options-config.php:2236
+msgid "Enter flicker link. Leave blank to hide icon."
+msgstr ""
+
+#: admin/theme-options-config.php:2242
+msgid "Linkedin Link"
+msgstr ""
+
+#: admin/theme-options-config.php:2243
+msgid "Enter linkedin profile link. Leave blank to hide icon."
+msgstr ""
+
+#: admin/theme-options-config.php:2249
+msgid "Vimeo Link"
+msgstr ""
+
+#: admin/theme-options-config.php:2250
+msgid "Enter vimeo chanel link. Leave blank to hide icon."
+msgstr ""
+
+#: admin/theme-options-config.php:2256
+msgid "Instagram Link"
+msgstr ""
+
+#: admin/theme-options-config.php:2257
+msgid "Enter instagram page or profile link. Leave blank to hide icon."
+msgstr ""
+
+#: admin/theme-options-config.php:2263
+msgid "Dribbble Link"
+msgstr ""
+
+#: admin/theme-options-config.php:2264
+msgid "Enter dribbble profile link. Leave blank to hide icon."
+msgstr ""
+
+#: admin/theme-options-config.php:2270
+msgid "Behance Link"
+msgstr ""
+
+#: admin/theme-options-config.php:2271
+msgid "Enter behance profile link. Leave blank to hide icon."
+msgstr ""
+
+#: author-bio.php:21 author.php:35
+msgid "Total Post: "
+msgstr ""
+
+#: category.php:118 template-parts/content-search.php:49
+#: template-parts/content-video.php:66 template-parts/content.php:61
+msgid "Details"
+msgstr ""
+
+#: comments.php:14
+msgid "One comment"
+msgstr ""
+
+#: comments.php:33
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:35
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:36
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:42
+msgid "Comments are closed."
+msgstr ""
+
+#: footer-default.php:74 footer-three.php:57 footer-two.php:41
+#, php-format
+msgid "Copyright &copy; %1$s | %2$s Theme by %3$s | Powered by %4$s"
+msgstr ""
+
+#: footer-default.php:76 footer-three.php:59 footer-two.php:43
+msgid "TrendyMag"
+msgstr ""
+
+#: footer-default.php:77 footer-three.php:60 footer-two.php:44
+msgid "TrendyTheme"
+msgstr ""
+
+#: footer-default.php:78 footer-three.php:61 footer-two.php:45
+msgid "WordPress"
+msgstr ""
+
+#: functions.php:88
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:89
+msgid "Header Top Menu"
+msgstr ""
+
+#: functions.php:144
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:146
+msgid "Appears in the blog sidebar."
+msgstr ""
+
+#: functions.php:154
+msgid "Page Sidebar Area"
+msgstr ""
+
+#: functions.php:156
+msgid "Appears in the Page sidebar."
+msgstr ""
+
+#: functions.php:164
+msgid "Category Sidebar Area"
+msgstr ""
+
+#: functions.php:166
+msgid "Appears in the Category sidebar."
+msgstr ""
+
+#: functions.php:174
+msgid "Home Content Sidebar"
+msgstr ""
+
+#: functions.php:176
+msgid ""
+"This widget created for home page or any vc supported pages and use it with "
+"VC Widgetised Sidebar."
+msgstr ""
+
+#: functions.php:184
+msgid "Footer Default Sidebar"
+msgstr ""
+
+#: functions.php:186
+msgid "Appears in the footer default only"
+msgstr ""
+
+#: functions.php:194
+msgid "Footer Sidebar Four Column"
+msgstr ""
+
+#: functions.php:196
+msgid "Appears in the footer four column"
+msgstr ""
+
+#: functions.php:204
+msgid "Offcanvas Sidebar"
+msgstr ""
+
+#: functions.php:206
+msgid "This widget created for offcanvas sidebar only"
+msgstr ""
+
+#: functions.php:227
+msgid "on"
+msgstr ""
+
+#: inc/extras.php:195
+msgid "Facebook Profile URL"
+msgstr ""
+
+#: inc/extras.php:196
+msgid "Twitter Profile URL"
+msgstr ""
+
+#: inc/extras.php:197
+msgid "Google Profile URL"
+msgstr ""
+
+#: inc/extras.php:198
+msgid "Linkedin Profile URL"
+msgstr ""
+
+#: inc/extras.php:199
+msgid "Instagram Profile URL"
+msgstr ""
+
+#: inc/metabox.php:23
+msgid "Featured Audio"
+msgstr ""
+
+#: inc/metabox.php:34
+msgid "Featured audio shows only Layout 1 & 2."
+msgstr ""
+
+#: inc/metabox.php:34
+msgid ""
+"Input URL for sounds, audios from Youtube, Soundcloud and all supported "
+"sites by WordPress. it will be embedded in the post single page, all "
+"supported lists: http://codex.wordpress.org/Embeds"
+msgstr ""
+
+#: inc/metabox.php:45 visual-composer/vc_extend/tt-featured-video.php:32
+msgid "Featured Video"
+msgstr ""
+
+#: inc/metabox.php:57
+msgid "Featured video shows only Layout 1 & 2."
+msgstr ""
+
+#: inc/metabox.php:57
+msgid ""
+"Paste a video link from Youtube, Vimeo, Dailymotion, Facebook or Twitter it "
+"will be embedded in the post single page, all supported lists: http://codex."
+"wordpress.org/Embeds"
+msgstr ""
+
+#: inc/metabox.php:68
+msgid "Featured Gallery"
+msgstr ""
+
+#: inc/metabox.php:75
+msgid "Upload image from media library"
+msgstr ""
+
+#: inc/metabox.php:89
+msgid "Site Layout"
+msgstr ""
+
+#: inc/metabox.php:97
+msgid "Site Layout options"
+msgstr ""
+
+#: inc/metabox.php:116
+msgid "Page Header Styles"
+msgstr ""
+
+#: inc/metabox.php:122
+msgid "Header style"
+msgstr ""
+
+#: inc/metabox.php:127 inc/metabox.php:156 inc/metabox.php:216
+msgid "Inherit from theme option"
+msgstr ""
+
+#: inc/metabox.php:128
+msgid "Header Default"
+msgstr ""
+
+#: inc/metabox.php:134
+msgid "Select header style"
+msgstr ""
+
+#: inc/metabox.php:145
+msgid "Page Footer Styles"
+msgstr ""
+
+#: inc/metabox.php:151
+msgid "Footer style"
+msgstr ""
+
+#: inc/metabox.php:157
+msgid "Footer default"
+msgstr ""
+
+#: inc/metabox.php:160
+msgid "No Footer"
+msgstr ""
+
+#: inc/metabox.php:165
+msgid "Select footer style"
+msgstr ""
+
+#: inc/metabox.php:166
+msgid "This settings apply only for this page"
+msgstr ""
+
+#: inc/metabox.php:178
+msgid "Single news style"
+msgstr ""
+
+#: inc/metabox.php:186
+msgid "Single News style"
+msgstr ""
+
+#: inc/metabox.php:217 visual-composer/vc_extend/tt-recent-news-filter.php:29
+msgid "Style one"
+msgstr ""
+
+#: inc/metabox.php:218 visual-composer/vc_extend/tt-recent-news-filter.php:30
+msgid "Style two"
+msgstr ""
+
+#: inc/metabox.php:219
+msgid "Style three"
+msgstr ""
+
+#: inc/metabox.php:220
+msgid "Style four"
+msgstr ""
+
+#: inc/metabox.php:221
+msgid "Style five"
+msgstr ""
+
+#: inc/metabox.php:222
+msgid "Style six"
+msgstr ""
+
+#: inc/metabox.php:223
+msgid "Style seven"
+msgstr ""
+
+#: inc/metabox.php:265 inc/metabox.php:317 inc/metabox.php:355
+#: visual-composer/params/vc_custom_params.php:102
+msgid "Color"
+msgstr ""
+
+#: inc/metabox.php:305
+msgid "Category Post Style"
+msgstr ""
+
+#: inc/metabox.php:354
+msgid "Post Style"
+msgstr ""
+
+#: inc/post-loadmore.php:180 single-loop-four.php:47 single-loop-three.php:46
+#: single-loop-two.php:52 single-loop.php:28 single-wrapper-five.php:71
+#: single-wrapper-seven.php:70 single-wrapper-six.php:72
+#: template-parts/content-search.php:21 template-parts/content-video.php:20
+#: template-parts/content.php:20 template-parts/related-news.php:63
+#: visual-composer/shortcodes/tt_category_layout_one.php:68
+#: visual-composer/shortcodes/tt_news_slider.php:173
+#: visual-composer/shortcodes/tt_popular_news.php:227
+#: visual-composer/shortcodes/tt_recent_news.php:179
+#: visual-composer/shortcodes/tt_recent_news_filter.php:183
+#: visual-composer/shortcodes/tt_recent_news_filter.php:311
+#: visual-composer/shortcodes/tt_recent_news_loadmore.php:184
+#: visual-composer/shortcodes/tt_single_category_news.php:183
+msgid "0"
+msgstr ""
+
+#: inc/post-loadmore.php:181 single-loop-four.php:48 single-loop-three.php:47
+#: single-loop-two.php:53 single-loop.php:29 single-wrapper-five.php:72
+#: single-wrapper-seven.php:71 single-wrapper-six.php:73
+#: template-parts/content-search.php:22 template-parts/content-video.php:21
+#: template-parts/content.php:21 template-parts/related-news.php:64
+#: visual-composer/shortcodes/tt_category_layout_one.php:69
+#: visual-composer/shortcodes/tt_news_slider.php:174
+#: visual-composer/shortcodes/tt_popular_news.php:228
+#: visual-composer/shortcodes/tt_recent_news.php:180
+#: visual-composer/shortcodes/tt_recent_news_filter.php:184
+#: visual-composer/shortcodes/tt_recent_news_filter.php:312
+#: visual-composer/shortcodes/tt_recent_news_loadmore.php:185
+#: visual-composer/shortcodes/tt_single_category_news.php:184
+#: visual-composer/vc_extend/tt-featured-news.php:180
+#: visual-composer/vc_extend/tt-featured-news.php:205
+#: visual-composer/vc_extend/tt-featured-video.php:134
+#: visual-composer/vc_extend/tt-featured-video.php:159
+#: visual-composer/vc_extend/tt-gradient-banner.php:115
+#: visual-composer/vc_extend/tt-gradient-banner.php:141
+#: visual-composer/vc_extend/tt-news-slider.php:296
+#: visual-composer/vc_extend/tt-news-slider.php:322
+#: visual-composer/vc_extend/tt-popular-news.php:318
+#: visual-composer/vc_extend/tt-popular-news.php:344
+#: visual-composer/vc_extend/tt-recent-news-filter.php:293
+#: visual-composer/vc_extend/tt-recent-news-filter.php:319
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:317
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:343
+#: visual-composer/vc_extend/tt-recent-news.php:328
+#: visual-composer/vc_extend/tt-recent-news.php:354
+#: visual-composer/vc_extend/tt-single-category-news.php:264
+#: visual-composer/vc_extend/tt-single-category-news.php:290
+msgid "1"
+msgstr ""
+
+#: inc/post-loadmore.php:182 single-loop-four.php:49 single-loop-three.php:48
+#: single-loop-two.php:54 single-loop.php:30 single-wrapper-five.php:73
+#: single-wrapper-seven.php:72 single-wrapper-six.php:74
+#: template-parts/content-search.php:23 template-parts/content-video.php:22
+#: template-parts/content.php:22 template-parts/related-news.php:65
+#: visual-composer/shortcodes/tt_category_layout_one.php:70
+#: visual-composer/shortcodes/tt_news_slider.php:175
+#: visual-composer/shortcodes/tt_popular_news.php:229
+#: visual-composer/shortcodes/tt_recent_news.php:181
+#: visual-composer/shortcodes/tt_recent_news_filter.php:185
+#: visual-composer/shortcodes/tt_recent_news_filter.php:313
+#: visual-composer/shortcodes/tt_recent_news_loadmore.php:186
+#: visual-composer/shortcodes/tt_single_category_news.php:185
+msgid "%"
+msgstr ""
+
+#: inc/post-loadmore.php:183 single-loop-four.php:50 single-loop-three.php:49
+#: single-loop-two.php:55 single-loop.php:31 single-wrapper-five.php:74
+#: single-wrapper-seven.php:73 single-wrapper-six.php:75
+#: template-parts/content-search.php:24 template-parts/content-video.php:23
+#: template-parts/content.php:23 template-parts/related-news.php:66
+#: visual-composer/shortcodes/tt_category_layout_one.php:71
+#: visual-composer/shortcodes/tt_news_slider.php:176
+#: visual-composer/shortcodes/tt_popular_news.php:230
+#: visual-composer/shortcodes/tt_recent_news.php:182
+#: visual-composer/shortcodes/tt_recent_news_filter.php:186
+#: visual-composer/shortcodes/tt_recent_news_filter.php:314
+#: visual-composer/shortcodes/tt_recent_news_loadmore.php:187
+#: visual-composer/shortcodes/tt_single_category_news.php:186
+msgid "Closed"
+msgstr ""
+
+#: inc/template-tags.php:27
+msgid "Previous Post"
+msgstr ""
+
+#: inc/template-tags.php:40
+msgid "Next Post"
+msgstr ""
+
+#: inc/template-tags.php:74
+msgid "Newer Posts"
+msgstr ""
+
+#: inc/template-tags.php:100
+msgid "Prev."
+msgstr ""
+
+#: inc/template-tags.php:101
+msgid "Next"
+msgstr ""
+
+#: inc/template-tags.php:140
+msgid "Edit Post"
+msgstr ""
+
+#: inc/template-tags.php:322
+msgid ""
+"This post is password protected. To view it please enter your password below:"
+msgstr ""
+
+#: inc/template-tags.php:344
+msgid "Home"
+msgstr ""
+
+#: inc/template-tags.php:348
+msgid "Posts Tagged "
+msgstr ""
+
+#: inc/template-tags.php:350 inc/template-tags.php:352
+#: inc/template-tags.php:354
+msgid "Posts made in"
+msgstr ""
+
+#: inc/template-tags.php:356
+msgid "Search results for"
+msgstr ""
+
+#: inc/template-tags.php:388
+msgid "Posts by: "
+msgstr ""
+
+#: inc/template-tags.php:392
+msgid "Blog"
+msgstr ""
+
+#: inc/template-tags.php:412 inc/template-tags.php:415
+#: inc/template-tags.php:418
+#, php-format
+msgid "Archive of: %s"
+msgstr ""
+
+#: inc/template-tags.php:423
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/template-tags.php:427
+#, php-format
+msgid "Search result for: \"%s\""
+msgstr ""
+
+#: inc/template-tags.php:431
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: inc/template-tags.php:435
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: inc/template-tags.php:439
+#, php-format
+msgid "Posts of: %s"
+msgstr ""
+
+#: inc/template-tags.php:443
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/template-tags.php:493
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:493
+msgid "(Edit)"
+msgstr ""
+
+#: inc/template-tags.php:526
+msgid "Edit"
+msgstr ""
+
+#: inc/template-tags.php:532
+msgid "Reply"
+msgstr ""
+
+#: inc/template-tags.php:542
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:754
+msgid " min read"
+msgstr ""
+
+#: inc/template-tags.php:756
+msgid " sec read"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:393
+#: required-plugins/class-tgm-plugin-activation.php:918
+#: required-plugins/class-tgm-plugin-activation.php:2624
+#: required-plugins/class-tgm-plugin-activation.php:3671
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:394
+#: required-plugins/class-tgm-plugin-activation.php:3250
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:395
+#: required-plugins/class-tgm-plugin-activation.php:3043
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:1025
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:1025
+#: required-plugins/class-tgm-plugin-activation.php:1028
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:1028
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:1212
+#: required-plugins/class-tgm-plugin-activation.php:3039
+msgid "and"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2073
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2364
+msgid "Required"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2367
+msgid "Recommended"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2383
+msgid "WordPress Repository"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2386
+msgid "External Source"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2389
+msgid "Pre-Packaged"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2406
+msgid "Not Installed"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2410
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2412
+msgid "Active"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2418
+msgid "Required Update not Available"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2421
+msgid "Requires Update"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2424
+msgid "Update recommended"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2433
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2479
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2483
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2487
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2491
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2573
+msgid "unknown"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2581
+msgid "Installed version:"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2589
+msgid "Minimum required version:"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2601
+msgid "Available version:"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2624
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2638
+msgid "Plugin"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2639
+msgid "Source"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2640
+msgid "Type"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2644
+msgid "Version"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2645
+msgid "Status"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2694
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2705
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2775
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2808
+msgid "Install"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2814
+msgid "Update"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2817
+msgid "Activate"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2848
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2891
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2999
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3025
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3249
+msgid "Plugin activation failed."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3589
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3592
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3598
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3600
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3600
+#: required-plugins/class-tgm-plugin-activation.php:3608
+msgid "Show Details"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3600
+#: required-plugins/class-tgm-plugin-activation.php:3608
+msgid "Hide Details"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3601
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3603
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3606
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3608
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3609
+msgid "All installations have been completed."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3611
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: single-loop-five.php:29 single-loop-four.php:80 single-loop-seven.php:24
+#: single-loop-six.php:32 single-loop-three.php:79 single-loop-two.php:86
+#: single-loop.php:84
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: template-parts/breaking-news.php:51 template-parts/related-news.php:79
+msgid "Post not found !"
+msgstr ""
+
+#: template-parts/content-none.php:9
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:16
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:20
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:10
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content-page.php:12 template-parts/content-search.php:55
+#: template-parts/content-video.php:72 template-parts/content.php:67
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/post-share.php:12
+msgid "Share on Facebook!"
+msgstr ""
+
+#: template-parts/post-share.php:12
+msgid "Share on Facebook"
+msgstr ""
+
+#: template-parts/post-share.php:19
+#, php-format
+msgid "Reading: %s"
+msgstr ""
+
+#: template-parts/post-share.php:19
+msgid "Share on Twitter!"
+msgstr ""
+
+#: template-parts/post-share.php:19
+msgid "Share on Twitter"
+msgstr ""
+
+#: template-parts/post-share.php:26
+msgid "Share on Google+!"
+msgstr ""
+
+#: template-parts/post-share.php:33
+msgid "Share on Linkedin!"
+msgstr ""
+
+#: template-parts/post-share.php:39
+msgid "Share on Pinterest!"
+msgstr ""
+
+#: template-parts/post-share.php:45
+msgid "Share on Reddit!"
+msgstr ""
+
+#: template-parts/post-share.php:51 template-parts/post-share.php:57
+msgid "Share on Stumble!"
+msgstr ""
+
+#: template-parts/post-share.php:63
+msgid "Share on delicious!"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:19
+msgid "Content Width"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:22
+msgid "Fixed Width"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:23
+msgid "Full Width"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:25
+msgid "Select content width"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:31
+msgid "Columns gap"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:48
+msgid "Select gap between columns in row, only for vc created column."
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:53
+msgid "Apply overlay ?"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:55
+msgid "If you want to apply overlay color then check this option"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:60
+msgid "Select color"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:62
+msgid "Select section overlay color"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:71
+#: visual-composer/params/vc_custom_params.php:89
+#: visual-composer/params/vc_custom_params.php:142
+#: visual-composer/vc_extend/tt-category-layout-one.php:147
+#: visual-composer/vc_extend/tt-featured-news.php:251
+#: visual-composer/vc_extend/tt-featured-video.php:205
+#: visual-composer/vc_extend/tt-food-recipe.php:105
+#: visual-composer/vc_extend/tt-gallery.php:121
+#: visual-composer/vc_extend/tt-gradient-banner.php:191
+#: visual-composer/vc_extend/tt-news-slider.php:371
+#: visual-composer/vc_extend/tt-newsletter.php:18
+#: visual-composer/vc_extend/tt-popular-news.php:393
+#: visual-composer/vc_extend/tt-recent-news-filter.php:368
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:399
+#: visual-composer/vc_extend/tt-recent-news.php:403
+#: visual-composer/vc_extend/tt-section-title.php:150
+#: visual-composer/vc_extend/tt-single-category-news.php:358
+#: visual-composer/vc_extend/tt-video-gallery.php:75
+msgid "Extra class name"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:73
+#: visual-composer/params/vc_custom_params.php:91
+#: visual-composer/params/vc_custom_params.php:144
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:82
+msgid "Sticky Column"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:84
+msgid "If you want to make this column sticky then check this option"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:104
+msgid "Select button color."
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:107
+msgid "Theme Primary"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:108
+msgid "Theme Default"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:109
+msgid "Blue"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:110
+msgid "Turquoise"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:111
+msgid "Pink"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:112
+msgid "Violet"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:113
+msgid "Peacoc"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:114
+msgid "Chino"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:115
+msgid "Mulled Wine"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:116
+msgid "Vista Blue"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:117
+msgid "Grey"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:118
+msgid "Black"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:119
+msgid "Orange"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:120
+msgid "Sky"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:121
+msgid "Green"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:122
+msgid "Juicy pink"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:123
+msgid "Sandy brown"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:124
+msgid "Purple"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:125
+msgid "White"
+msgstr ""
+
+#: visual-composer/shortcodes/tt_category_layout_one.php:125
+#: visual-composer/shortcodes/tt_featured_news.php:131
+#: visual-composer/shortcodes/tt_featured_video.php:121
+#: visual-composer/shortcodes/tt_gallery.php:60
+#: visual-composer/shortcodes/tt_gallery.php:100
+#: visual-composer/shortcodes/tt_news_slider.php:193
+#: visual-composer/shortcodes/tt_popular_news.php:259
+#: visual-composer/shortcodes/tt_recent_news.php:211
+#: visual-composer/shortcodes/tt_recent_news_filter.php:216
+#: visual-composer/shortcodes/tt_recent_news_filter.php:347
+#: visual-composer/shortcodes/tt_recent_news_loadmore.php:216
+#: visual-composer/shortcodes/tt_single_category_news.php:220
+#: visual-composer/shortcodes/tt_video_gallery.php:57
+#: visual-composer/shortcodes/tt_video_gallery.php:84
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: visual-composer/shortcodes/tt_featured_news.php:112
+#: visual-composer/shortcodes/tt_single_category_news.php:146
+msgid " "
+msgstr ""
+
+#: visual-composer/templates/home-app-landing.php:8
+msgid "Home App Landing"
+msgstr ""
+
+#: visual-composer/templates/home-corporate.php:8
+msgid "Home Corporate"
+msgstr ""
+
+#: visual-composer/templates/home-creative.php:8
+msgid "Home Creative"
+msgstr ""
+
+#: visual-composer/templates/home-default.php:8
+msgid "Home Default"
+msgstr ""
+
+#: visual-composer/templates/home-parallax.php:8
+msgid "Home Parallax"
+msgstr ""
+
+#: visual-composer/templates/home-portfolio-wide.php:8
+msgid "Home Portfolio Wide"
+msgstr ""
+
+#: visual-composer/templates/home-portfolio.php:8
+msgid "Home Portfolio"
+msgstr ""
+
+#: visual-composer/templates/onepage-app-landing.php:8
+msgid "OnePage App Landing"
+msgstr ""
+
+#: visual-composer/templates/onepage-default.php:8
+msgid "OnePage Default"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-category-layout-one.php:17
+msgid "Category News"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-category-layout-one.php:20
+#: visual-composer/vc_extend/tt-featured-news.php:31
+#: visual-composer/vc_extend/tt-featured-video.php:35
+#: visual-composer/vc_extend/tt-food-recipe.php:12
+#: visual-composer/vc_extend/tt-gallery.php:11
+#: visual-composer/vc_extend/tt-gradient-banner.php:13
+#: visual-composer/vc_extend/tt-news-slider.php:12
+#: visual-composer/vc_extend/tt-newsletter.php:13
+#: visual-composer/vc_extend/tt-popular-news.php:11
+#: visual-composer/vc_extend/tt-recent-news-filter.php:13
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:13
+#: visual-composer/vc_extend/tt-recent-news.php:13
+#: visual-composer/vc_extend/tt-section-title.php:13
+#: visual-composer/vc_extend/tt-single-category-news.php:20
+#: visual-composer/vc_extend/tt-video-gallery.php:12
+msgid "TT Elements"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-category-layout-one.php:21
+msgid "Show off news from a category (for mega menu)"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-category-layout-one.php:26
+#: visual-composer/vc_extend/tt-single-category-news.php:59
+msgid "Categories"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-category-layout-one.php:30
+#: visual-composer/vc_extend/tt-single-category-news.php:63
+msgid "Select category to show post"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-category-layout-one.php:35
+#: visual-composer/vc_extend/tt-gallery.php:74
+#: visual-composer/vc_extend/tt-news-slider.php:112
+#: visual-composer/vc_extend/tt-popular-news.php:123
+#: visual-composer/vc_extend/tt-recent-news-filter.php:60
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:111
+#: visual-composer/vc_extend/tt-recent-news.php:111
+#: visual-composer/vc_extend/tt-single-category-news.php:68
+#: visual-composer/vc_extend/tt-video-gallery.php:47
+msgid "Total Items"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-category-layout-one.php:39
+#: visual-composer/vc_extend/tt-gallery.php:78
+#: visual-composer/vc_extend/tt-news-slider.php:116
+#: visual-composer/vc_extend/tt-popular-news.php:127
+#: visual-composer/vc_extend/tt-recent-news-filter.php:64
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:115
+#: visual-composer/vc_extend/tt-recent-news.php:115
+#: visual-composer/vc_extend/tt-single-category-news.php:72
+#: visual-composer/vc_extend/tt-video-gallery.php:51
+msgid "Set max limit for items"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-category-layout-one.php:44
+#: visual-composer/vc_extend/tt-news-slider.php:125
+#: visual-composer/vc_extend/tt-popular-news.php:136
+#: visual-composer/vc_extend/tt-recent-news-filter.php:69
+#: visual-composer/vc_extend/tt-recent-news.php:124
+#: visual-composer/vc_extend/tt-single-category-news.php:77
+msgid "Post offset"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-category-layout-one.php:46
+#: visual-composer/vc_extend/tt-news-slider.php:127
+#: visual-composer/vc_extend/tt-popular-news.php:138
+#: visual-composer/vc_extend/tt-recent-news-filter.php:71
+#: visual-composer/vc_extend/tt-recent-news.php:126
+#: visual-composer/vc_extend/tt-single-category-news.php:79
+msgid ""
+"number of post to displace or pass over. The offset parameter is ignored "
+"when total item => -1 (show all posts) is used."
+msgstr ""
+
+#: visual-composer/vc_extend/tt-category-layout-one.php:51
+#: visual-composer/vc_extend/tt-news-slider.php:136
+#: visual-composer/vc_extend/tt-recent-news-filter.php:76
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:124
+#: visual-composer/vc_extend/tt-recent-news.php:135
+#: visual-composer/vc_extend/tt-single-category-news.php:84
+msgid "Order by"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-category-layout-one.php:54
+#: visual-composer/vc_extend/tt-news-slider.php:139
+#: visual-composer/vc_extend/tt-recent-news-filter.php:79
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:127
+#: visual-composer/vc_extend/tt-recent-news.php:138
+#: visual-composer/vc_extend/tt-single-category-news.php:87
+msgid "Date"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-category-layout-one.php:55
+#: visual-composer/vc_extend/tt-news-slider.php:140
+#: visual-composer/vc_extend/tt-recent-news-filter.php:80
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:128
+#: visual-composer/vc_extend/tt-recent-news.php:139
+#: visual-composer/vc_extend/tt-single-category-news.php:88
+msgid "Order by post ID"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-category-layout-one.php:56
+#: visual-composer/vc_extend/tt-news-slider.php:141
+#: visual-composer/vc_extend/tt-recent-news-filter.php:81
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:129
+#: visual-composer/vc_extend/tt-recent-news.php:140
+#: visual-composer/vc_extend/tt-single-category-news.php:89
+msgid "Author"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-category-layout-one.php:57
+#: visual-composer/vc_extend/tt-food-recipe.php:17
+#: visual-composer/vc_extend/tt-food-recipe.php:32
+#: visual-composer/vc_extend/tt-food-recipe.php:72
+#: visual-composer/vc_extend/tt-news-slider.php:142
+#: visual-composer/vc_extend/tt-recent-news-filter.php:82
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:130
+#: visual-composer/vc_extend/tt-recent-news.php:141
+#: visual-composer/vc_extend/tt-section-title.php:19
+#: visual-composer/vc_extend/tt-single-category-news.php:90
+msgid "Title"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-category-layout-one.php:58
+#: visual-composer/vc_extend/tt-news-slider.php:143
+#: visual-composer/vc_extend/tt-recent-news-filter.php:83
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:131
+#: visual-composer/vc_extend/tt-recent-news.php:142
+#: visual-composer/vc_extend/tt-single-category-news.php:91
+msgid "Last modified date"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-category-layout-one.php:59
+#: visual-composer/vc_extend/tt-news-slider.php:144
+#: visual-composer/vc_extend/tt-recent-news-filter.php:84
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:132
+#: visual-composer/vc_extend/tt-recent-news.php:143
+#: visual-composer/vc_extend/tt-single-category-news.php:92
+msgid "Post parent ID"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-category-layout-one.php:60
+#: visual-composer/vc_extend/tt-news-slider.php:145
+#: visual-composer/vc_extend/tt-recent-news-filter.php:85
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:133
+#: visual-composer/vc_extend/tt-recent-news.php:144
+#: visual-composer/vc_extend/tt-single-category-news.php:93
+msgid "Number of comments"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-category-layout-one.php:61
+#: visual-composer/vc_extend/tt-news-slider.php:146
+#: visual-composer/vc_extend/tt-recent-news-filter.php:86
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:134
+#: visual-composer/vc_extend/tt-recent-news.php:145
+#: visual-composer/vc_extend/tt-single-category-news.php:94
+msgid "Menu order"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-category-layout-one.php:62
+#: visual-composer/vc_extend/tt-news-slider.php:147
+#: visual-composer/vc_extend/tt-recent-news-filter.php:87
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:135
+#: visual-composer/vc_extend/tt-recent-news.php:146
+#: visual-composer/vc_extend/tt-single-category-news.php:95
+msgid "Meta value"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-category-layout-one.php:63
+#: visual-composer/vc_extend/tt-news-slider.php:148
+#: visual-composer/vc_extend/tt-recent-news-filter.php:88
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:136
+#: visual-composer/vc_extend/tt-recent-news.php:147
+#: visual-composer/vc_extend/tt-single-category-news.php:96
+msgid "Meta value number"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-category-layout-one.php:64
+#: visual-composer/vc_extend/tt-news-slider.php:149
+#: visual-composer/vc_extend/tt-recent-news-filter.php:89
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:137
+#: visual-composer/vc_extend/tt-recent-news.php:148
+#: visual-composer/vc_extend/tt-single-category-news.php:97
+msgid "Random order"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-category-layout-one.php:68
+#: visual-composer/vc_extend/tt-news-slider.php:153
+#: visual-composer/vc_extend/tt-recent-news-filter.php:93
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:141
+#: visual-composer/vc_extend/tt-recent-news.php:152
+#: visual-composer/vc_extend/tt-single-category-news.php:101
+msgid ""
+"Select order type. If \"Meta value\" or \"Meta value Number\" is chosen then "
+"meta key is required."
+msgstr ""
+
+#: visual-composer/vc_extend/tt-category-layout-one.php:73
+#: visual-composer/vc_extend/tt-news-slider.php:158
+#: visual-composer/vc_extend/tt-popular-news.php:147
+#: visual-composer/vc_extend/tt-recent-news-filter.php:98
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:146
+#: visual-composer/vc_extend/tt-recent-news.php:157
+#: visual-composer/vc_extend/tt-single-category-news.php:106
+msgid "Sort order"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-category-layout-one.php:76
+#: visual-composer/vc_extend/tt-news-slider.php:161
+#: visual-composer/vc_extend/tt-popular-news.php:150
+#: visual-composer/vc_extend/tt-recent-news-filter.php:101
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:149
+#: visual-composer/vc_extend/tt-recent-news.php:160
+#: visual-composer/vc_extend/tt-single-category-news.php:109
+msgid "Descending"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-category-layout-one.php:77
+#: visual-composer/vc_extend/tt-news-slider.php:162
+#: visual-composer/vc_extend/tt-popular-news.php:151
+#: visual-composer/vc_extend/tt-recent-news-filter.php:102
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:150
+#: visual-composer/vc_extend/tt-recent-news.php:161
+#: visual-composer/vc_extend/tt-single-category-news.php:110
+msgid "Ascending"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-category-layout-one.php:81
+#: visual-composer/vc_extend/tt-news-slider.php:166
+#: visual-composer/vc_extend/tt-popular-news.php:155
+#: visual-composer/vc_extend/tt-recent-news-filter.php:106
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:154
+#: visual-composer/vc_extend/tt-recent-news.php:165
+#: visual-composer/vc_extend/tt-single-category-news.php:114
+msgid "Select sorting order."
+msgstr ""
+
+#: visual-composer/vc_extend/tt-category-layout-one.php:86
+#: visual-composer/vc_extend/tt-news-slider.php:171
+#: visual-composer/vc_extend/tt-popular-news.php:160
+#: visual-composer/vc_extend/tt-recent-news-filter.php:111
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:159
+#: visual-composer/vc_extend/tt-recent-news.php:170
+#: visual-composer/vc_extend/tt-single-category-news.php:119
+msgid "Exclude"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-category-layout-one.php:88
+#: visual-composer/vc_extend/tt-news-slider.php:173
+#: visual-composer/vc_extend/tt-popular-news.php:162
+#: visual-composer/vc_extend/tt-recent-news-filter.php:113
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:161
+#: visual-composer/vc_extend/tt-recent-news.php:172
+#: visual-composer/vc_extend/tt-single-category-news.php:121
+msgid "Exclude posts by title."
+msgstr ""
+
+#: visual-composer/vc_extend/tt-category-layout-one.php:98
+#: visual-composer/vc_extend/tt-featured-news.php:75
+#: visual-composer/vc_extend/tt-news-slider.php:194
+#: visual-composer/vc_extend/tt-popular-news.php:199
+#: visual-composer/vc_extend/tt-recent-news-filter.php:178
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:198
+#: visual-composer/vc_extend/tt-recent-news.php:209
+#: visual-composer/vc_extend/tt-single-category-news.php:138
+msgid "Show/Hide category"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-category-layout-one.php:107
+#: visual-composer/vc_extend/tt-featured-news.php:83
+#: visual-composer/vc_extend/tt-news-slider.php:203
+#: visual-composer/vc_extend/tt-popular-news.php:208
+#: visual-composer/vc_extend/tt-recent-news-filter.php:187
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:207
+#: visual-composer/vc_extend/tt-recent-news.php:218
+#: visual-composer/vc_extend/tt-single-category-news.php:147
+msgid "You can show or hide category name"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-category-layout-one.php:112
+#: visual-composer/vc_extend/tt-featured-news.php:112
+#: visual-composer/vc_extend/tt-news-slider.php:208
+#: visual-composer/vc_extend/tt-popular-news.php:213
+#: visual-composer/vc_extend/tt-recent-news-filter.php:192
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:212
+#: visual-composer/vc_extend/tt-recent-news.php:223
+#: visual-composer/vc_extend/tt-single-category-news.php:177
+msgid "Show/Hide date"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-category-layout-one.php:121
+#: visual-composer/vc_extend/tt-featured-news.php:120
+#: visual-composer/vc_extend/tt-news-slider.php:217
+#: visual-composer/vc_extend/tt-popular-news.php:222
+#: visual-composer/vc_extend/tt-recent-news-filter.php:201
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:221
+#: visual-composer/vc_extend/tt-recent-news.php:232
+#: visual-composer/vc_extend/tt-single-category-news.php:186
+msgid "You can show or hide post date"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-category-layout-one.php:126
+#: visual-composer/vc_extend/tt-news-slider.php:222
+#: visual-composer/vc_extend/tt-popular-news.php:227
+#: visual-composer/vc_extend/tt-recent-news-filter.php:206
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:226
+#: visual-composer/vc_extend/tt-recent-news.php:237
+#: visual-composer/vc_extend/tt-single-category-news.php:191
+msgid "Show/Hide comment"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-category-layout-one.php:135
+#: visual-composer/vc_extend/tt-news-slider.php:231
+#: visual-composer/vc_extend/tt-popular-news.php:236
+#: visual-composer/vc_extend/tt-recent-news-filter.php:215
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:235
+#: visual-composer/vc_extend/tt-recent-news.php:246
+#: visual-composer/vc_extend/tt-single-category-news.php:200
+msgid "You can show or hide post comment"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-category-layout-one.php:140
+#: visual-composer/vc_extend/tt-featured-news.php:244
+#: visual-composer/vc_extend/tt-featured-video.php:198
+#: visual-composer/vc_extend/tt-food-recipe.php:98
+#: visual-composer/vc_extend/tt-gallery.php:114
+#: visual-composer/vc_extend/tt-gradient-banner.php:184
+#: visual-composer/vc_extend/tt-news-slider.php:364
+#: visual-composer/vc_extend/tt-popular-news.php:386
+#: visual-composer/vc_extend/tt-recent-news-filter.php:361
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:392
+#: visual-composer/vc_extend/tt-recent-news.php:396
+#: visual-composer/vc_extend/tt-section-title.php:143
+#: visual-composer/vc_extend/tt-single-category-news.php:351
+#: visual-composer/vc_extend/tt-video-gallery.php:68
+msgid "Css"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-category-layout-one.php:142
+#: visual-composer/vc_extend/tt-featured-news.php:246
+#: visual-composer/vc_extend/tt-featured-video.php:200
+#: visual-composer/vc_extend/tt-food-recipe.php:100
+#: visual-composer/vc_extend/tt-gallery.php:116
+#: visual-composer/vc_extend/tt-gradient-banner.php:186
+#: visual-composer/vc_extend/tt-news-slider.php:366
+#: visual-composer/vc_extend/tt-popular-news.php:388
+#: visual-composer/vc_extend/tt-recent-news-filter.php:363
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:394
+#: visual-composer/vc_extend/tt-recent-news.php:398
+#: visual-composer/vc_extend/tt-section-title.php:145
+#: visual-composer/vc_extend/tt-single-category-news.php:353
+#: visual-composer/vc_extend/tt-video-gallery.php:70
+msgid "Design options"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-category-layout-one.php:149
+#: visual-composer/vc_extend/tt-featured-news.php:253
+#: visual-composer/vc_extend/tt-featured-video.php:207
+#: visual-composer/vc_extend/tt-food-recipe.php:107
+#: visual-composer/vc_extend/tt-gallery.php:123
+#: visual-composer/vc_extend/tt-gradient-banner.php:193
+#: visual-composer/vc_extend/tt-news-slider.php:373
+#: visual-composer/vc_extend/tt-newsletter.php:21
+#: visual-composer/vc_extend/tt-popular-news.php:395
+#: visual-composer/vc_extend/tt-recent-news-filter.php:370
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:401
+#: visual-composer/vc_extend/tt-recent-news.php:405
+#: visual-composer/vc_extend/tt-section-title.php:152
+#: visual-composer/vc_extend/tt-single-category-news.php:360
+#: visual-composer/vc_extend/tt-video-gallery.php:77
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:28
+msgid "Featured News"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:32
+msgid "Select your desire post as featured news"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:36
+#: visual-composer/vc_extend/tt-featured-video.php:40
+#: visual-composer/vc_extend/tt-recent-news-filter.php:18
+msgid "Element Title"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:39
+#: visual-composer/vc_extend/tt-featured-video.php:43
+#: visual-composer/vc_extend/tt-recent-news-filter.php:21
+#: visual-composer/vc_extend/tt-recent-news-filter.php:41
+msgid "Enter element title"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:44
+#: visual-composer/vc_extend/tt-featured-video.php:48
+msgid "Select news"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:48
+#: visual-composer/vc_extend/tt-featured-video.php:52
+msgid "Select news that would you like to display"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:53
+#: visual-composer/vc_extend/tt-featured-video.php:57
+msgid "Post image width"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:56
+#: visual-composer/vc_extend/tt-featured-video.php:60
+msgid "1/4 Column (one fourth of 12 grid)"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:57
+#: visual-composer/vc_extend/tt-featured-video.php:61
+msgid "2/4 Column (two fourth of 12 grid)"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:58
+#: visual-composer/vc_extend/tt-featured-video.php:62
+msgid "1/3 Column (one third of 12 grid)"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:59
+#: visual-composer/vc_extend/tt-featured-video.php:63
+msgid "2/3 Column (two third of 12 grid)"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:63
+#: visual-composer/vc_extend/tt-featured-video.php:67
+msgid "Select post image width by column"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:68
+#: visual-composer/vc_extend/tt-featured-video.php:72
+#: visual-composer/vc_extend/tt-news-slider.php:187
+#: visual-composer/vc_extend/tt-popular-news.php:191
+#: visual-composer/vc_extend/tt-recent-news-filter.php:138
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:190
+#: visual-composer/vc_extend/tt-recent-news.php:201
+msgid "Post height"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:70
+#: visual-composer/vc_extend/tt-featured-video.php:74
+msgid "Select post height in px, default height is 362px"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:88
+#: visual-composer/vc_extend/tt-single-category-news.php:152
+msgid "Category background colors"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:92
+#: visual-composer/vc_extend/tt-single-category-news.php:156
+msgid "Theme color"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:93
+#: visual-composer/vc_extend/tt-single-category-news.php:157
+msgid "Yellow"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:94
+#: visual-composer/vc_extend/tt-single-category-news.php:158
+msgid "Spring Green"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:95
+#: visual-composer/vc_extend/tt-single-category-news.php:159
+msgid "Deep Sky Blue"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:96
+#: visual-composer/vc_extend/tt-single-category-news.php:160
+msgid "Electric Purple"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:97
+#: visual-composer/vc_extend/tt-single-category-news.php:161
+msgid "Psychedelic Purple"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:98
+#: visual-composer/vc_extend/tt-single-category-news.php:162
+msgid "Light Sea Green"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:99
+#: visual-composer/vc_extend/tt-single-category-news.php:163
+msgid "Han Purple"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:100
+#: visual-composer/vc_extend/tt-single-category-news.php:164
+msgid "Orange Peel"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:101
+#: visual-composer/vc_extend/tt-single-category-news.php:165
+msgid "Transparent"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:103
+#: visual-composer/vc_extend/tt-single-category-news.php:167
+msgid "Change category background color"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:125
+#: visual-composer/vc_extend/tt-featured-video.php:79
+#: visual-composer/vc_extend/tt-gradient-banner.php:56
+#: visual-composer/vc_extend/tt-news-slider.php:237
+#: visual-composer/vc_extend/tt-popular-news.php:259
+#: visual-composer/vc_extend/tt-recent-news-filter.php:234
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:258
+#: visual-composer/vc_extend/tt-recent-news.php:269
+#: visual-composer/vc_extend/tt-single-category-news.php:205
+msgid "Use custom gradient image overlay?"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:126
+#: visual-composer/vc_extend/tt-featured-video.php:80
+#: visual-composer/vc_extend/tt-gradient-banner.php:57
+#: visual-composer/vc_extend/tt-news-slider.php:238
+#: visual-composer/vc_extend/tt-popular-news.php:260
+#: visual-composer/vc_extend/tt-recent-news-filter.php:235
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:259
+#: visual-composer/vc_extend/tt-recent-news.php:270
+#: visual-composer/vc_extend/tt-single-category-news.php:206
+msgid ""
+"If you like to use gradient for overlay image then select gradient option"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:129
+#: visual-composer/vc_extend/tt-featured-video.php:83
+#: visual-composer/vc_extend/tt-gradient-banner.php:37
+#: visual-composer/vc_extend/tt-gradient-banner.php:60
+#: visual-composer/vc_extend/tt-news-slider.php:241
+#: visual-composer/vc_extend/tt-popular-news.php:263
+#: visual-composer/vc_extend/tt-recent-news-filter.php:238
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:262
+#: visual-composer/vc_extend/tt-recent-news.php:273
+#: visual-composer/vc_extend/tt-single-category-news.php:209
+msgid "No"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:130
+#: visual-composer/vc_extend/tt-featured-video.php:84
+#: visual-composer/vc_extend/tt-gradient-banner.php:61
+#: visual-composer/vc_extend/tt-news-slider.php:242
+#: visual-composer/vc_extend/tt-popular-news.php:264
+#: visual-composer/vc_extend/tt-recent-news-filter.php:239
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:263
+#: visual-composer/vc_extend/tt-recent-news.php:274
+#: visual-composer/vc_extend/tt-single-category-news.php:210
+msgid "Gradient"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:131
+#: visual-composer/vc_extend/tt-featured-video.php:85
+#: visual-composer/vc_extend/tt-gradient-banner.php:62
+#: visual-composer/vc_extend/tt-news-slider.php:243
+#: visual-composer/vc_extend/tt-popular-news.php:265
+#: visual-composer/vc_extend/tt-recent-news-filter.php:240
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:264
+#: visual-composer/vc_extend/tt-recent-news.php:275
+#: visual-composer/vc_extend/tt-single-category-news.php:211
+msgid "Gradient Custom"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:136
+#: visual-composer/vc_extend/tt-featured-news.php:217
+#: visual-composer/vc_extend/tt-featured-video.php:90
+#: visual-composer/vc_extend/tt-featured-video.php:171
+#: visual-composer/vc_extend/tt-gradient-banner.php:69
+#: visual-composer/vc_extend/tt-gradient-banner.php:154
+#: visual-composer/vc_extend/tt-news-slider.php:250
+#: visual-composer/vc_extend/tt-news-slider.php:335
+#: visual-composer/vc_extend/tt-popular-news.php:272
+#: visual-composer/vc_extend/tt-popular-news.php:357
+#: visual-composer/vc_extend/tt-recent-news-filter.php:247
+#: visual-composer/vc_extend/tt-recent-news-filter.php:332
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:271
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:356
+#: visual-composer/vc_extend/tt-recent-news.php:282
+#: visual-composer/vc_extend/tt-recent-news.php:367
+#: visual-composer/vc_extend/tt-single-category-news.php:218
+#: visual-composer/vc_extend/tt-single-category-news.php:303
+msgid "Gradient Color 1"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:138
+#: visual-composer/vc_extend/tt-featured-news.php:219
+#: visual-composer/vc_extend/tt-featured-video.php:92
+#: visual-composer/vc_extend/tt-featured-video.php:173
+#: visual-composer/vc_extend/tt-gradient-banner.php:71
+#: visual-composer/vc_extend/tt-gradient-banner.php:156
+#: visual-composer/vc_extend/tt-news-slider.php:252
+#: visual-composer/vc_extend/tt-news-slider.php:337
+#: visual-composer/vc_extend/tt-popular-news.php:274
+#: visual-composer/vc_extend/tt-popular-news.php:359
+#: visual-composer/vc_extend/tt-recent-news-filter.php:249
+#: visual-composer/vc_extend/tt-recent-news-filter.php:334
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:273
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:358
+#: visual-composer/vc_extend/tt-recent-news.php:284
+#: visual-composer/vc_extend/tt-recent-news.php:369
+#: visual-composer/vc_extend/tt-single-category-news.php:220
+#: visual-composer/vc_extend/tt-single-category-news.php:305
+msgid "Select first color for gradient."
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:150
+#: visual-composer/vc_extend/tt-featured-news.php:230
+#: visual-composer/vc_extend/tt-featured-video.php:104
+#: visual-composer/vc_extend/tt-featured-video.php:184
+#: visual-composer/vc_extend/tt-gradient-banner.php:84
+#: visual-composer/vc_extend/tt-gradient-banner.php:169
+#: visual-composer/vc_extend/tt-news-slider.php:265
+#: visual-composer/vc_extend/tt-news-slider.php:349
+#: visual-composer/vc_extend/tt-popular-news.php:287
+#: visual-composer/vc_extend/tt-popular-news.php:371
+#: visual-composer/vc_extend/tt-recent-news-filter.php:262
+#: visual-composer/vc_extend/tt-recent-news-filter.php:346
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:286
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:370
+#: visual-composer/vc_extend/tt-recent-news.php:297
+#: visual-composer/vc_extend/tt-recent-news.php:381
+#: visual-composer/vc_extend/tt-single-category-news.php:233
+#: visual-composer/vc_extend/tt-single-category-news.php:318
+msgid "Gradient Color 2"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:152
+#: visual-composer/vc_extend/tt-featured-news.php:232
+#: visual-composer/vc_extend/tt-featured-video.php:106
+#: visual-composer/vc_extend/tt-featured-video.php:186
+#: visual-composer/vc_extend/tt-gradient-banner.php:86
+#: visual-composer/vc_extend/tt-gradient-banner.php:171
+#: visual-composer/vc_extend/tt-news-slider.php:267
+#: visual-composer/vc_extend/tt-news-slider.php:351
+#: visual-composer/vc_extend/tt-popular-news.php:289
+#: visual-composer/vc_extend/tt-popular-news.php:373
+#: visual-composer/vc_extend/tt-recent-news-filter.php:264
+#: visual-composer/vc_extend/tt-recent-news-filter.php:348
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:288
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:372
+#: visual-composer/vc_extend/tt-recent-news.php:299
+#: visual-composer/vc_extend/tt-recent-news.php:383
+#: visual-composer/vc_extend/tt-single-category-news.php:235
+#: visual-composer/vc_extend/tt-single-category-news.php:320
+msgid "Select second color for gradient."
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:166
+#: visual-composer/vc_extend/tt-featured-video.php:120
+#: visual-composer/vc_extend/tt-gradient-banner.php:101
+#: visual-composer/vc_extend/tt-news-slider.php:282
+#: visual-composer/vc_extend/tt-popular-news.php:304
+#: visual-composer/vc_extend/tt-recent-news-filter.php:279
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:303
+#: visual-composer/vc_extend/tt-recent-news.php:314
+#: visual-composer/vc_extend/tt-single-category-news.php:250
+msgid "Opacity for Color 1"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:167
+#: visual-composer/vc_extend/tt-featured-news.php:192
+#: visual-composer/vc_extend/tt-featured-video.php:121
+#: visual-composer/vc_extend/tt-featured-video.php:146
+#: visual-composer/vc_extend/tt-gradient-banner.php:102
+#: visual-composer/vc_extend/tt-gradient-banner.php:128
+#: visual-composer/vc_extend/tt-news-slider.php:283
+#: visual-composer/vc_extend/tt-news-slider.php:309
+#: visual-composer/vc_extend/tt-popular-news.php:305
+#: visual-composer/vc_extend/tt-popular-news.php:331
+#: visual-composer/vc_extend/tt-recent-news-filter.php:280
+#: visual-composer/vc_extend/tt-recent-news-filter.php:306
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:304
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:330
+#: visual-composer/vc_extend/tt-recent-news.php:315
+#: visual-composer/vc_extend/tt-recent-news.php:341
+#: visual-composer/vc_extend/tt-single-category-news.php:251
+#: visual-composer/vc_extend/tt-single-category-news.php:277
+msgid "Change the gradient color opacity"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:170
+#: visual-composer/vc_extend/tt-featured-news.php:195
+#: visual-composer/vc_extend/tt-featured-video.php:124
+#: visual-composer/vc_extend/tt-featured-video.php:149
+#: visual-composer/vc_extend/tt-gradient-banner.php:105
+#: visual-composer/vc_extend/tt-gradient-banner.php:131
+#: visual-composer/vc_extend/tt-news-slider.php:286
+#: visual-composer/vc_extend/tt-news-slider.php:312
+#: visual-composer/vc_extend/tt-popular-news.php:308
+#: visual-composer/vc_extend/tt-popular-news.php:334
+#: visual-composer/vc_extend/tt-recent-news-filter.php:283
+#: visual-composer/vc_extend/tt-recent-news-filter.php:309
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:307
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:333
+#: visual-composer/vc_extend/tt-recent-news.php:318
+#: visual-composer/vc_extend/tt-recent-news.php:344
+#: visual-composer/vc_extend/tt-single-category-news.php:254
+#: visual-composer/vc_extend/tt-single-category-news.php:280
+msgid "Select opacity"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:171
+#: visual-composer/vc_extend/tt-featured-news.php:196
+#: visual-composer/vc_extend/tt-featured-video.php:125
+#: visual-composer/vc_extend/tt-featured-video.php:150
+#: visual-composer/vc_extend/tt-gradient-banner.php:106
+#: visual-composer/vc_extend/tt-gradient-banner.php:132
+#: visual-composer/vc_extend/tt-news-slider.php:287
+#: visual-composer/vc_extend/tt-news-slider.php:313
+#: visual-composer/vc_extend/tt-popular-news.php:309
+#: visual-composer/vc_extend/tt-popular-news.php:335
+#: visual-composer/vc_extend/tt-recent-news-filter.php:284
+#: visual-composer/vc_extend/tt-recent-news-filter.php:310
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:308
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:334
+#: visual-composer/vc_extend/tt-recent-news.php:319
+#: visual-composer/vc_extend/tt-recent-news.php:345
+#: visual-composer/vc_extend/tt-single-category-news.php:255
+#: visual-composer/vc_extend/tt-single-category-news.php:281
+msgid ".1"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:172
+#: visual-composer/vc_extend/tt-featured-news.php:197
+#: visual-composer/vc_extend/tt-featured-video.php:126
+#: visual-composer/vc_extend/tt-featured-video.php:151
+#: visual-composer/vc_extend/tt-gradient-banner.php:107
+#: visual-composer/vc_extend/tt-gradient-banner.php:133
+#: visual-composer/vc_extend/tt-news-slider.php:288
+#: visual-composer/vc_extend/tt-news-slider.php:314
+#: visual-composer/vc_extend/tt-popular-news.php:310
+#: visual-composer/vc_extend/tt-popular-news.php:336
+#: visual-composer/vc_extend/tt-recent-news-filter.php:285
+#: visual-composer/vc_extend/tt-recent-news-filter.php:311
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:309
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:335
+#: visual-composer/vc_extend/tt-recent-news.php:320
+#: visual-composer/vc_extend/tt-recent-news.php:346
+#: visual-composer/vc_extend/tt-single-category-news.php:256
+#: visual-composer/vc_extend/tt-single-category-news.php:282
+msgid ".2"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:173
+#: visual-composer/vc_extend/tt-featured-news.php:198
+#: visual-composer/vc_extend/tt-featured-video.php:127
+#: visual-composer/vc_extend/tt-featured-video.php:152
+#: visual-composer/vc_extend/tt-gradient-banner.php:108
+#: visual-composer/vc_extend/tt-gradient-banner.php:134
+#: visual-composer/vc_extend/tt-news-slider.php:289
+#: visual-composer/vc_extend/tt-news-slider.php:315
+#: visual-composer/vc_extend/tt-popular-news.php:311
+#: visual-composer/vc_extend/tt-popular-news.php:337
+#: visual-composer/vc_extend/tt-recent-news-filter.php:286
+#: visual-composer/vc_extend/tt-recent-news-filter.php:312
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:310
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:336
+#: visual-composer/vc_extend/tt-recent-news.php:321
+#: visual-composer/vc_extend/tt-recent-news.php:347
+#: visual-composer/vc_extend/tt-single-category-news.php:257
+#: visual-composer/vc_extend/tt-single-category-news.php:283
+msgid ".3"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:174
+#: visual-composer/vc_extend/tt-featured-news.php:199
+#: visual-composer/vc_extend/tt-featured-video.php:128
+#: visual-composer/vc_extend/tt-featured-video.php:153
+#: visual-composer/vc_extend/tt-gradient-banner.php:109
+#: visual-composer/vc_extend/tt-gradient-banner.php:135
+#: visual-composer/vc_extend/tt-news-slider.php:290
+#: visual-composer/vc_extend/tt-news-slider.php:316
+#: visual-composer/vc_extend/tt-popular-news.php:312
+#: visual-composer/vc_extend/tt-popular-news.php:338
+#: visual-composer/vc_extend/tt-recent-news-filter.php:287
+#: visual-composer/vc_extend/tt-recent-news-filter.php:313
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:311
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:337
+#: visual-composer/vc_extend/tt-recent-news.php:322
+#: visual-composer/vc_extend/tt-recent-news.php:348
+#: visual-composer/vc_extend/tt-single-category-news.php:258
+#: visual-composer/vc_extend/tt-single-category-news.php:284
+msgid ".4"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:175
+#: visual-composer/vc_extend/tt-featured-news.php:200
+#: visual-composer/vc_extend/tt-featured-video.php:129
+#: visual-composer/vc_extend/tt-featured-video.php:154
+#: visual-composer/vc_extend/tt-gradient-banner.php:110
+#: visual-composer/vc_extend/tt-gradient-banner.php:136
+#: visual-composer/vc_extend/tt-news-slider.php:291
+#: visual-composer/vc_extend/tt-news-slider.php:317
+#: visual-composer/vc_extend/tt-popular-news.php:313
+#: visual-composer/vc_extend/tt-popular-news.php:339
+#: visual-composer/vc_extend/tt-recent-news-filter.php:288
+#: visual-composer/vc_extend/tt-recent-news-filter.php:314
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:312
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:338
+#: visual-composer/vc_extend/tt-recent-news.php:323
+#: visual-composer/vc_extend/tt-recent-news.php:349
+#: visual-composer/vc_extend/tt-single-category-news.php:259
+#: visual-composer/vc_extend/tt-single-category-news.php:285
+msgid ".5"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:176
+#: visual-composer/vc_extend/tt-featured-news.php:201
+#: visual-composer/vc_extend/tt-featured-video.php:130
+#: visual-composer/vc_extend/tt-featured-video.php:155
+#: visual-composer/vc_extend/tt-gradient-banner.php:111
+#: visual-composer/vc_extend/tt-gradient-banner.php:137
+#: visual-composer/vc_extend/tt-news-slider.php:292
+#: visual-composer/vc_extend/tt-news-slider.php:318
+#: visual-composer/vc_extend/tt-popular-news.php:314
+#: visual-composer/vc_extend/tt-popular-news.php:340
+#: visual-composer/vc_extend/tt-recent-news-filter.php:289
+#: visual-composer/vc_extend/tt-recent-news-filter.php:315
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:313
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:339
+#: visual-composer/vc_extend/tt-recent-news.php:324
+#: visual-composer/vc_extend/tt-recent-news.php:350
+#: visual-composer/vc_extend/tt-single-category-news.php:260
+#: visual-composer/vc_extend/tt-single-category-news.php:286
+msgid ".6"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:177
+#: visual-composer/vc_extend/tt-featured-news.php:202
+#: visual-composer/vc_extend/tt-featured-video.php:131
+#: visual-composer/vc_extend/tt-featured-video.php:156
+#: visual-composer/vc_extend/tt-gradient-banner.php:112
+#: visual-composer/vc_extend/tt-gradient-banner.php:138
+#: visual-composer/vc_extend/tt-news-slider.php:293
+#: visual-composer/vc_extend/tt-news-slider.php:319
+#: visual-composer/vc_extend/tt-popular-news.php:315
+#: visual-composer/vc_extend/tt-popular-news.php:341
+#: visual-composer/vc_extend/tt-recent-news-filter.php:290
+#: visual-composer/vc_extend/tt-recent-news-filter.php:316
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:314
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:340
+#: visual-composer/vc_extend/tt-recent-news.php:325
+#: visual-composer/vc_extend/tt-recent-news.php:351
+#: visual-composer/vc_extend/tt-single-category-news.php:261
+#: visual-composer/vc_extend/tt-single-category-news.php:287
+msgid ".7"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:178
+#: visual-composer/vc_extend/tt-featured-news.php:203
+#: visual-composer/vc_extend/tt-featured-video.php:132
+#: visual-composer/vc_extend/tt-featured-video.php:157
+#: visual-composer/vc_extend/tt-gradient-banner.php:113
+#: visual-composer/vc_extend/tt-gradient-banner.php:139
+#: visual-composer/vc_extend/tt-news-slider.php:294
+#: visual-composer/vc_extend/tt-news-slider.php:320
+#: visual-composer/vc_extend/tt-popular-news.php:316
+#: visual-composer/vc_extend/tt-popular-news.php:342
+#: visual-composer/vc_extend/tt-recent-news-filter.php:291
+#: visual-composer/vc_extend/tt-recent-news-filter.php:317
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:315
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:341
+#: visual-composer/vc_extend/tt-recent-news.php:326
+#: visual-composer/vc_extend/tt-recent-news.php:352
+#: visual-composer/vc_extend/tt-single-category-news.php:262
+#: visual-composer/vc_extend/tt-single-category-news.php:288
+msgid ".8"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:179
+#: visual-composer/vc_extend/tt-featured-news.php:204
+#: visual-composer/vc_extend/tt-featured-video.php:133
+#: visual-composer/vc_extend/tt-featured-video.php:158
+#: visual-composer/vc_extend/tt-gradient-banner.php:114
+#: visual-composer/vc_extend/tt-gradient-banner.php:140
+#: visual-composer/vc_extend/tt-news-slider.php:295
+#: visual-composer/vc_extend/tt-news-slider.php:321
+#: visual-composer/vc_extend/tt-popular-news.php:317
+#: visual-composer/vc_extend/tt-popular-news.php:343
+#: visual-composer/vc_extend/tt-recent-news-filter.php:292
+#: visual-composer/vc_extend/tt-recent-news-filter.php:318
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:316
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:342
+#: visual-composer/vc_extend/tt-recent-news.php:327
+#: visual-composer/vc_extend/tt-recent-news.php:353
+#: visual-composer/vc_extend/tt-single-category-news.php:263
+#: visual-composer/vc_extend/tt-single-category-news.php:289
+msgid ".9"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-news.php:191
+#: visual-composer/vc_extend/tt-featured-video.php:145
+#: visual-composer/vc_extend/tt-gradient-banner.php:127
+#: visual-composer/vc_extend/tt-news-slider.php:308
+#: visual-composer/vc_extend/tt-popular-news.php:330
+#: visual-composer/vc_extend/tt-recent-news-filter.php:305
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:329
+#: visual-composer/vc_extend/tt-recent-news.php:340
+#: visual-composer/vc_extend/tt-single-category-news.php:276
+msgid "Opacity for Color 2"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-video.php:36
+msgid "Select single video post"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-food-recipe.php:9
+msgid "TT Food Recipe"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-food-recipe.php:13
+msgid "Displays food recipe"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-food-recipe.php:20
+msgid "Enter recipe title"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-food-recipe.php:25
+#: visual-composer/vc_extend/tt-food-recipe.php:40
+msgid "Time"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-food-recipe.php:27
+#: visual-composer/vc_extend/tt-food-recipe.php:28
+msgid "Recipe Time"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-food-recipe.php:35
+msgid "Enter title, e.g: Preparation Time"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-food-recipe.php:43
+msgid "Enter time, e.g: 10Min"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-food-recipe.php:50
+msgid "Content"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-food-recipe.php:52
+msgid "Enter recipe content"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-food-recipe.php:57
+msgid "Nutrition Section Title"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-food-recipe.php:59
+#: visual-composer/vc_extend/tt-food-recipe.php:65
+#: visual-composer/vc_extend/tt-food-recipe.php:68
+msgid "Nutrition"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-food-recipe.php:60
+msgid "Enter Nutrition section title"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-food-recipe.php:67
+msgid "Nutrition per serving"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-food-recipe.php:75
+msgid "Enter nutrition title, e.g: Calories"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-food-recipe.php:80
+msgid "Nutrition amount"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-food-recipe.php:83
+msgid "Enter nutrition amount, e.g: 475"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-food-recipe.php:88
+msgid "Amount with percent"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-food-recipe.php:91
+msgid "Enter nutrition percentage, e.g: 23%"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gallery.php:8
+msgid "TT Image Gallery"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gallery.php:12
+msgid "Displays gallery with image"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gallery.php:17
+msgid "Image source"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gallery.php:20
+msgid "Image from post"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gallery.php:21
+msgid "Image from media"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gallery.php:24
+msgid "Select an image source"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gallery.php:29
+msgid "Image type"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gallery.php:32
+msgid "Portrait"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gallery.php:33
+msgid "Landscape"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gallery.php:36
+msgid "Select an image type"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gallery.php:41
+#: visual-composer/vc_extend/tt-video-gallery.php:18
+msgid "Post Source"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gallery.php:44
+#: visual-composer/vc_extend/tt-video-gallery.php:21
+msgid "Latest post"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gallery.php:45
+#: visual-composer/vc_extend/tt-gallery.php:56
+#: visual-composer/vc_extend/tt-news-slider.php:47
+#: visual-composer/vc_extend/tt-popular-news.php:58
+#: visual-composer/vc_extend/tt-recent-news-filter.php:46
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:46
+#: visual-composer/vc_extend/tt-recent-news.php:46
+#: visual-composer/vc_extend/tt-video-gallery.php:22
+#: visual-composer/vc_extend/tt-video-gallery.php:29
+msgid "Post from category"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gallery.php:65
+#: visual-composer/vc_extend/tt-news-slider.php:56
+#: visual-composer/vc_extend/tt-popular-news.php:67
+#: visual-composer/vc_extend/tt-recent-news-filter.php:55
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:55
+#: visual-composer/vc_extend/tt-recent-news.php:55
+#: visual-composer/vc_extend/tt-video-gallery.php:38
+msgid ""
+"Enter categories name to show post from specific category, multiple category "
+"allowed"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gallery.php:87
+#: visual-composer/vc_extend/tt-video-gallery.php:56
+msgid "Image caption"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gallery.php:89
+#: visual-composer/vc_extend/tt-video-gallery.php:58
+msgid "enable/disable image caption"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gallery.php:103
+msgid "Images"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gallery.php:105
+msgid "Select images from media library."
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gradient-banner.php:10
+msgid "Gradient Banner"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gradient-banner.php:14
+msgid "Displays banner with gradient color"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gradient-banner.php:19
+msgid "Banner title"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gradient-banner.php:21
+msgid "Enter banner title here."
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gradient-banner.php:26
+msgid "Banner image"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gradient-banner.php:28
+msgid "Select images from media library"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gradient-banner.php:33
+msgid "Enable link ?"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gradient-banner.php:36
+msgid "Yes"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gradient-banner.php:40
+msgid "If you want to enable link then select yes"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gradient-banner.php:45
+msgid "Link"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gradient-banner.php:47
+msgid "Enter custom link or select existing page as link"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-news-slider.php:9
+msgid "News Slider"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-news-slider.php:13
+msgid "Show off news with slider"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-news-slider.php:18
+#: visual-composer/vc_extend/tt-popular-news.php:43
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:31
+#: visual-composer/vc_extend/tt-recent-news.php:31
+msgid "Posts Source"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-news-slider.php:21
+#: visual-composer/vc_extend/tt-popular-news.php:46
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:34
+#: visual-composer/vc_extend/tt-recent-news.php:34
+msgid "From all post"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-news-slider.php:22
+#: visual-composer/vc_extend/tt-popular-news.php:47
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:35
+#: visual-composer/vc_extend/tt-recent-news.php:35
+msgid "By Category"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-news-slider.php:23
+#: visual-composer/vc_extend/tt-popular-news.php:48
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:36
+#: visual-composer/vc_extend/tt-recent-news.php:36
+msgid "By Tag"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-news-slider.php:24
+#: visual-composer/vc_extend/tt-popular-news.php:49
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:37
+#: visual-composer/vc_extend/tt-recent-news.php:37
+msgid "By Post ID"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-news-slider.php:25
+#: visual-composer/vc_extend/tt-popular-news.php:50
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:38
+#: visual-composer/vc_extend/tt-recent-news.php:38
+msgid "By Author"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-news-slider.php:28
+#: visual-composer/vc_extend/tt-popular-news.php:53
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:41
+#: visual-composer/vc_extend/tt-recent-news.php:41
+msgid "Select posts source that you like to show."
+msgstr ""
+
+#: visual-composer/vc_extend/tt-news-slider.php:33
+msgid "Image size"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-news-slider.php:36
+msgid "Slider normal size"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-news-slider.php:37
+msgid "Slider medium size"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-news-slider.php:38
+msgid "Slider large size"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-news-slider.php:39
+msgid "Slider extra large size"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-news-slider.php:42
+msgid "Select slider image size."
+msgstr ""
+
+#: visual-composer/vc_extend/tt-news-slider.php:65
+#: visual-composer/vc_extend/tt-popular-news.php:76
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:64
+#: visual-composer/vc_extend/tt-recent-news.php:64
+msgid "Post from tag"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-news-slider.php:74
+#: visual-composer/vc_extend/tt-popular-news.php:85
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:73
+#: visual-composer/vc_extend/tt-recent-news.php:73
+msgid "Enter tags name to show post from specific tag, multiple tag allowed"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-news-slider.php:83
+#: visual-composer/vc_extend/tt-popular-news.php:94
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:82
+#: visual-composer/vc_extend/tt-recent-news.php:82
+msgid "Post from author"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-news-slider.php:92
+#: visual-composer/vc_extend/tt-popular-news.php:103
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:91
+#: visual-composer/vc_extend/tt-recent-news.php:91
+msgid ""
+"Enter author name to show post from specific author, multiple author allowed"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-news-slider.php:101
+#: visual-composer/vc_extend/tt-popular-news.php:112
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:100
+#: visual-composer/vc_extend/tt-recent-news.php:100
+msgid "Post from ID"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-news-slider.php:103
+#: visual-composer/vc_extend/tt-popular-news.php:114
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:102
+#: visual-composer/vc_extend/tt-recent-news.php:102
+msgid "Enter the post IDs you would like to display separated by comma"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-news-slider.php:189
+#: visual-composer/vc_extend/tt-popular-news.php:194
+#: visual-composer/vc_extend/tt-recent-news-filter.php:141
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:193
+#: visual-composer/vc_extend/tt-recent-news.php:204
+msgid "Enter post height in pixel if needed"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-newsletter.php:10
+msgid "TT Newsletter"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-newsletter.php:14
+msgid "Newsletter subscribe form"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-popular-news.php:8
+msgid "Popular News"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-popular-news.php:12
+msgid "Show off popular news"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-popular-news.php:17
+msgid "Post options"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-popular-news.php:20
+msgid "Todays popular post"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-popular-news.php:21
+msgid "Weekly popular post"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-popular-news.php:22
+msgid "Monthly popular post"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-popular-news.php:23
+msgid "All time popular post"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-popular-news.php:26
+msgid "Select range of popular post"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-popular-news.php:31
+#: visual-composer/vc_extend/tt-recent-news-filter.php:26
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:19
+#: visual-composer/vc_extend/tt-recent-news.php:19
+#: visual-composer/vc_extend/tt-single-category-news.php:25
+msgid "Post style"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-popular-news.php:38
+#: visual-composer/vc_extend/tt-recent-news-filter.php:33
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:26
+#: visual-composer/vc_extend/tt-recent-news.php:26
+msgid "Select recent post style"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-popular-news.php:176
+#: visual-composer/vc_extend/tt-recent-news-filter.php:123
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:175
+#: visual-composer/vc_extend/tt-recent-news.php:186
+msgid "Grid column"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-popular-news.php:179
+#: visual-composer/vc_extend/tt-recent-news-filter.php:126
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:178
+#: visual-composer/vc_extend/tt-recent-news.php:189
+msgid "2 Column"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-popular-news.php:180
+#: visual-composer/vc_extend/tt-recent-news-filter.php:127
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:179
+#: visual-composer/vc_extend/tt-recent-news.php:190
+msgid "3 Column"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-popular-news.php:181
+#: visual-composer/vc_extend/tt-recent-news-filter.php:128
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:180
+#: visual-composer/vc_extend/tt-recent-news.php:191
+msgid "4 Column"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-popular-news.php:186
+#: visual-composer/vc_extend/tt-recent-news-filter.php:133
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:185
+#: visual-composer/vc_extend/tt-recent-news.php:196
+msgid "Select post grid column"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-popular-news.php:241
+#: visual-composer/vc_extend/tt-recent-news-filter.php:220
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:240
+#: visual-composer/vc_extend/tt-recent-news.php:251
+#: visual-composer/vc_extend/tt-single-category-news.php:333
+msgid "Show/Hide colored border"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-popular-news.php:254
+#: visual-composer/vc_extend/tt-recent-news-filter.php:229
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:253
+#: visual-composer/vc_extend/tt-recent-news.php:264
+#: visual-composer/vc_extend/tt-single-category-news.php:346
+msgid "You can show or hide bottom colored border"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-recent-news-filter.php:10
+msgid "Recent News with filter"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-recent-news-filter.php:14
+msgid "Show off recent news with filter"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-recent-news-filter.php:38
+msgid "Default filter text"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-recent-news-filter.php:40
+msgid "All Category"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-recent-news-filter.php:146
+msgid "Show/Hide Filter"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-recent-news-filter.php:155
+msgid "Select filter visibility option"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-recent-news-filter.php:160
+msgid "Filter Style"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-recent-news-filter.php:163
+msgid "Dropdown Style"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-recent-news-filter.php:164
+msgid "Inline Style"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-recent-news-filter.php:169
+msgid "Select filter style"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:10
+msgid "Recent News with loadmore"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:14
+msgid "Show off recent news with loadmore"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:385
+msgid "Loadmore Text"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-recent-news-loadmore.php:387
+msgid "Load More"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-recent-news.php:10
+msgid "Recent News"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-recent-news.php:14
+msgid "Show off recent news"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:10
+msgid "Section Title style"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:14
+msgid "To customize section title style"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:22
+msgid "Enter title here"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:27
+msgid "Title tag"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:30
+msgid "H1"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:31
+msgid "H2"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:32
+msgid "H3"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:33
+msgid "H4"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:34
+msgid "H5"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:35
+msgid "H6"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:39
+msgid "Select title tag"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:44
+msgid "Font size"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:48
+msgid "Enter font size"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:53
+msgid "Title Text Transform"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:56
+msgid "None"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:57
+msgid "Uppercase"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:58
+msgid "Lowercase"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:59
+msgid "Capitalize"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:63
+msgid "Select title transform"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:68
+msgid "Alignment"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:71
+msgid "Left"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:72
+msgid "Center"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:73
+msgid "Right"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:76
+msgid "Select title alignment"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:81
+msgid "Title color option"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:84
+msgid "Default Color"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:85
+msgid "Theme Color"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:86
+msgid "Custom Color"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:88
+msgid ""
+"If you change default title color then select theme color or select any "
+"custom color"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:93
+#: visual-composer/vc_extend/tt-section-title.php:121
+#: visual-composer/vc_extend/tt-section-title.php:132
+msgid "Custom color"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:95
+msgid "Change title color"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:104
+msgid "Separator show/hide"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:112
+msgid "If you want to hide section separator then select hide"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:117
+msgid "Separator color"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:120
+msgid "Default color"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:123
+msgid "If you change default separator color then select custom color"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:134
+msgid "change border color"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-single-category-news.php:17
+msgid "News from Category"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-single-category-news.php:21
+msgid "Show off news from a category"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-single-category-news.php:30
+msgid "Style Three (News list with one thumb)"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-single-category-news.php:34
+msgid "Select post style"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-single-category-news.php:39
+msgid "Post Layout"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-single-category-news.php:42
+msgid "Layout one (2 column)"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-single-category-news.php:43
+msgid "Layout two (2 column except first post)"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-single-category-news.php:44
+msgid "Layout three (3 column)"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-single-category-news.php:45
+msgid "Layout four (3 column except first post)"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-single-category-news.php:46
+msgid "Layout five (4 column)"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-single-category-news.php:54
+msgid "Select post layout"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-single-category-news.php:131
+msgid "Wrapper height"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-single-category-news.php:133
+msgid "Enter wrapper height in pixel if needed"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-video-gallery.php:9
+msgid "TT Video Gallery"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-video-gallery.php:13
+msgid "Displays gallery with video popup"
+msgstr ""

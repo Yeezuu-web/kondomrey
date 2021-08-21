@@ -1,0 +1,420 @@
+/* Twitter widget
+------------------------------------------- */
+.widget_tt_twitter_widget .twitter-icon-wrap {
+    width: 30px;
+    float: left;
+}
+
+.widget_tt_twitter_widget .twitter-icon-wrap span {
+    color: #0088ff;
+    margin-top: 5px;
+}
+
+.widget_tt_twitter_widget .tt-tweet-body {
+    padding-left: 30px;
+    font-size: 14px;
+    border-bottom: 1px solid #efefef;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    line-height: 24px;
+}
+.widget_tt_twitter_widget .tt-tweet-body p{
+    margin: 0;
+}
+.widget_tt_twitter_widget .tt-tweet-body a {
+    color: #999999;
+}
+.widget_tt_twitter_widget .tt-tweet-meta {
+    display: block;
+    font-size: 11px;
+    text-align: right;
+}
+.widget_tt_twitter_widget ul li:last-child .tt-tweet-body{
+    border-bottom: 0;
+}
+.tt-follow-btn{
+    display: block;
+    text-align: center;
+}
+.tt-follow-btn{
+    border-radius: 2px;
+    background-color: #33CCFF;
+    color: #ffffff;
+    padding: 10px;
+}
+.tt-follow-btn:hover,
+.tt-follow-btn:focus{
+    color: #ffffff;
+    opacity: 0.8;
+}
+.tt-follow-btn i{
+    margin-right: 5px;
+}
+
+
+
+/* RECENT COMMENT WIDGET
+------------------------------------------- */
+.tt-recent-comments .comment-content{
+    padding: 0;
+}
+.tt-recent-comments .media{
+    margin: 0 0 20px;
+}
+.tt-recent-comments .media:last-child{
+    margin: 0;
+}
+.tt-recent-comments .comment-content ul{
+    padding: 0;
+}
+.tt-recent-comments .comment-content li:last-child{
+    margin-right: 0;
+}
+.tt-recent-comments .comment-content .entry-meta{
+    margin-bottom: 10px;
+}
+.tt-recent-comments .author-avatar img{
+    max-width: inherit;
+}
+
+
+
+/* AUTHOR INFO WIDGET
+------------------------------------------- */
+.author-info-wrapper{
+    background-color: #f4f4f4;
+    padding: 30px;
+    text-align: center;
+}
+.author-info-wrapper .author-avatar{
+    margin-bottom: 20px;
+}
+.author-info-wrapper .author-avatar img{
+    border-radius: 50%;
+    height: auto;
+}
+.author-info-wrapper h4{
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.author-info-wrapper .author-social-links li a i{
+    width: 40px;
+    height: 40px;
+    line-height: 38px;
+    text-align: center;
+    color: #848484;
+    border: 1px solid #bdbdbd;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+    -webkit-transition: all 400ms;
+    -moz-transition: all 400ms;
+    -o-transition: all 400ms;
+    transition: all 400ms;
+}
+
+.author-social-links{
+    margin-top: 25px;
+}
+
+
+/* LATEST NEWS
+------------------------------------------- */
+.tt-latest-news article{
+    margin-bottom: 25px;
+}
+.tt-latest-news article:last-child{
+    margin-bottom: 0;
+}
+.tt-latest-news .entry-content{
+    margin-top: 15px;
+}
+.tt-latest-news .entry-content h4{
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    -webkit-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    -ms-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    transition: all 0.4s ease;
+}
+
+.tt-latest-news .entry-meta ul{
+    margin-bottom: 0;
+}
+.tt-latest-news .entry-meta li i,
+.tt-popular-post .entry-meta li i,
+.tt-recent-comments .entry-meta li i{
+    padding-right: 5px;
+}
+
+
+/* POPULAR NEWS
+------------------------------------------- */
+.tt-popular-post .entry-meta li a,
+.widget_recent_entries ul li .post-date {
+    color: #a7a7a7;
+    line-height: 22px;
+}
+
+.tt-popular-post h4,
+.tt-latest-news .entry-content h4,
+.tt-recent-comments .comment-content .comment-title{
+    font-weight: 500;
+    font-size: 14px;
+    margin-bottom: 0;
+}
+.tt-popular-post h4 span{
+    color: #afafaf;
+    font-size: 12px;
+    display: inline-block;
+}
+.tt-popular-post h4 a,
+.tt-recent-comments .comment-content .comment-title a,
+.tt-latest-news .entry-content h4 a{
+    color: #202020;
+}
+
+.tt-popular-post .media{
+    margin: 0 0 15px;
+}
+.tt-popular-post .media:last-child{
+    margin: 0;
+}
+.tt-popular-post .media img{
+    max-width: 65px;
+    height: auto;
+}
+
+
+
+
+/*Weather widget*/
+.wpb_widgetised_column .widget_tt_weather_widget .widget-title,
+.tt-sidebar-wrapper .widget_tt_weather_widget .widget-title {
+    color: #ffffff;
+}
+.wpb_widgetised_column .widget_tt_weather_widget{
+    padding: 30px;
+}
+@media(min-width: 992px) and (max-width: 1199px){
+    .wpb_widgetised_column .widget_tt_weather_widget{
+        padding: 30px 15px;
+    }
+}
+.widget_tt_weather_widget .weather-widget-error {
+    text-align: center;
+    padding: 20px
+}
+
+.weather-wrapper {
+    clear: both;
+    line-height: 1;
+    position: relative;
+}
+
+.weather-city {
+    display: inline-block;
+    padding: 0 20px 0 10px;
+    max-width: 160px;
+}
+
+.weather-city .weather-icon {
+    position: relative;
+    margin: 0 auto;
+    height: 75px;
+    font-size: 14px
+}
+
+.weather-icon > div{
+    font-size: 32px;
+}
+
+.weather-city .weather-icon [class^="tt-"],
+.weather-city .weather-icon [class*=" tt-"] {
+    font-size: 55px
+}
+
+.weather-city-name {
+    font-size: 32px;
+    padding-top: 5px;
+    font-weight: bold
+}
+
+.weather-todays-temperature {
+    display: inline-block;
+    padding: 0 10px;
+    vertical-align: top
+}
+
+.weather-more-todays-temperature {
+    text-align: left;
+    line-height: 22px;
+    font-size: 12px;
+    padding-top: 12px;
+}
+
+.current-temperature {
+    font-size: 70px;
+    font-weight: 700;
+}
+
+.current-temperature sup {
+    font-size: 16px;
+    top: 0;
+}
+
+.weather-main {
+    margin-top: 5px;
+    text-transform: capitalize;
+    font-size: 12px;
+}
+
+.weather-forecast-wrap {
+    clear: both;
+    margin-top: 30px;
+}
+
+.weather-forecast-item {
+    position: relative;
+    width: 1%;
+    display: table-cell;
+    text-align: center;
+}
+
+.weather-forecast-item .weather-icon {
+    position: relative;
+    margin: 0 auto 7px;
+    width: 60px;
+    height: 40px;
+    font-size: 14px;
+}
+
+
+/*Flickr*/
+.flickr-photo-wrapper .flickr_badge_image{
+    width: 33.33333%;
+    height: auto;
+    padding: 0 2px 4px;
+    min-height: 1px;
+    margin: 0;
+}
+
+.widget_tt_flickr_widget .tt-follow-btn{
+    margin: 10px 2px;
+    background-color: #4a4a4a;
+}
+
+.flickr-photo-wrapper .flickr_badge_image img{
+    -webkit-transition: all 400ms;
+    transition: all 400ms;
+    -webkit-transform: translateZ(0);
+}
+.flickr-photo-wrapper .flickr_badge_image img:hover{
+    opacity: 0.9;
+}
+
+
+/*social icons*/
+.tt-social-link ul{
+    margin-bottom: 0;
+}
+.tt-social-link li{
+    list-style: none;
+    padding-right: 0;
+    margin-bottom: 8px;
+}
+.tt-social-link li i{
+    text-align: center;
+    border-radius: 2px;
+    color:#fff;
+    -webkit-transition:all 400ms;
+    -moz-transition:all 400ms;
+    -o-transition:all 400ms;
+    transition:all 400ms;
+}
+
+.tt-social-link li a i:focus,
+.tt-social-link li i:focus{
+    outline: none;
+}
+.tt-social-link li i:hover{
+    opacity: 0.9;
+}
+.tt-social-link li.small i{
+    font-size: 16px;
+    width:30px;
+    height:30px;
+    line-height: 30px;
+}
+
+.tt-social-link li.medium i{
+    font-size: 24px;
+    width:45px;
+    height:45px;
+    line-height: 45px;
+}
+
+.tt-social-link li.large i{
+    font-size: 30px;
+    width:60px;
+    height:60px;
+    line-height: 60px;
+}
+
+.facebook i{
+    background:#3B5997;
+}
+
+.twitter i{
+    background:#29C5F6;
+}
+
+.google i{
+    background:#D13D2F;
+}
+
+.pinterest i{
+    background:#C61118;
+}
+.dribbble i{
+    background:#FF5C93;
+}
+.behance i{
+    background:#12C5EF;
+}
+.instagram i{
+    background:#8A9FAE;
+}
+.linkedin i{
+    background:#2C91DC;
+}
+.delicious i{
+    background:#457E9B;
+}
+.soundcloud i{
+    background:#FF5419;
+}
+.youtube i{
+    background:#D72A24;
+}
+.flickr i{
+    background:#ED1983;
+}
+.vimeo i{
+    background:#0FACD7;
+}
+.github i{
+    background:#000000;
+}
+.tumblr i{
+    background:#304E6C;
+}
+.android i{
+    background:#B2CE49;
+}
+.digg i{
+    background:#546BA0;
+}
